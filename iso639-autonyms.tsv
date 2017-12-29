@@ -5884,8 +5884,8 @@ siy		Sivandi		iso639-3
 siz		Siwi		iso639-3
 sja		Epena	Epéna Pedée	iso639-3, ethnologue
 sjb		Sajau Basap		iso639-3
-sjd		Kildin Sami		iso639-3
-sje		Pite Sami		iso639-3
+sjd		Kildin Sami	Кӣллт са̄мь кӣлл	github
+sje		Pite Sami	Bidumsámegiella	github
 sjg		Assangori		iso639-3
 sjk		Kemi Sami		iso639-3
 sjl		Sajalong		iso639-3
@@ -5895,8 +5895,8 @@ sjo		Xibe		iso639-3
 sjp		Surjapuri		iso639-3
 sjr		Siar-Lak		iso639-3
 sjs		Senhaja De Srair		iso639-3
-sjt		Ter Sami		iso639-3
-sju		Ume Sami		iso639-3
+sjt		Ter Sami	saa´mekiill	github
+sju		Ume Sami	Ubmejensámien giella	github
 sjw		Shawnee		iso639-3
 ska		Skagit		iso639-3
 skb		Saek		iso639-3
@@ -5958,7 +5958,7 @@ smn		Inari Sami	anarâškielâ	cldr
 smp		Samaritan		iso639-3
 smq		Samo		iso639-3
 smr		Simeulue		iso639-3
-sms		Skolt Sami		cldr
+sms		Skolt Sami	nuõrttsääʹmǩiõll	github
 smt		Simte		iso639-3
 smu		Somray		iso639-3
 smv		Samvedi		iso639-3
