@@ -4,6 +4,14 @@ This repository is borne out of a need for a singular database of languages mapp
 
 While the data has initially been generated from standard sources, contributions are welcomed for any overly-anglicised names (those not using the native character set of the language) or those languages with name variants that have not been included.
 
+## Interpretation
+
+`tag3` and `tag1` columns represent the ISO 639-3 and -1 tags respectively. The `name` field is the "most recognisable" form of the language name, typically in English, to be used as a fallback where an autonym is not available.
+
+The `autonym` field is the name of the language *in* that language. If this field is blank, it means that there is no confirmed autonym for this language in this database and you may use the `name` field as a fallback.
+
+An `autonym` being blank does not necessarily indicate that the `name` field represents the autonym. In the case where they are the same, they should be listed in both columns.
+
 ## Sources
 
 Here are the currently utilised sources by this repository:
