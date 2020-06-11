@@ -49,7 +49,7 @@ The LCIDs used in this table are defined by [MS-OE376: 2.1.1906 Part 4 Section 7
 
 `tag3` and `tag1` columns represent the ISO 639-3 and -1 tags respectively.
 
-In effect, if a field is blank, it indicates that in BCP47 form, that segment should not be included to be equal to the given LCID. For example, `ar` is `1025`, while `ar-AE` is 14337.
+In effect, if a field is blank, it indicates that in BCP47 form, that segment should not be included to be equal to the given LCID. For example, `ar` is `1025`, while `ar-AE` is `14337`.
 
 # License
 
