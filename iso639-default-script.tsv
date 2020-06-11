@@ -126,7 +126,6 @@ ckt		Cyrl	cldr
 cor	kw	Latn	cldr
 cos	co	Latn	cldr
 cps		Latn	cldr
-cre	cr	Cans	cldr
 cre	cr	Latn	cldr
 crh		Cyrl	cldr
 crj		Latn	giellatekno
@@ -218,7 +217,6 @@ glk		Arab	cldr
 glv	gv	Latn	cldr
 gom		Deva	cldr
 gon		Deva	cldr
-gon		Telu	cldr
 gor		Latn	cldr
 gos		Latn	cldr
 grb		Latn	cldr
@@ -242,7 +240,6 @@ hdn		Latn	giellatekno
 heb	he	Hebr	cldr
 her	hz	Latn	cldr
 hif		Deva	cldr
-hif		Latn	cldr
 hil		Latn	cldr
 hin	hi	Deva	cldr
 hmd		Plrd	cldr
@@ -292,11 +289,9 @@ kal	kl	Latn	cldr
 kam		Latn	cldr
 kan	kn	Knda	cldr
 kao		Latn	cldr
-kas	ks	Arab	cldr
 kas	ks	Deva	cldr
 kat	ka	Geor	cldr
 kau	kr	Latn	cldr
-kaz	kk	Arab	cldr
 kaz	kk	Cyrl	cldr
 kbd		Cyrl	cldr
 kca		Cyrl	cldr
@@ -322,9 +317,7 @@ khw		Arab	cldr
 kik	ki	Latn	cldr
 kin	rw	Latn	cldr
 kio		Latn	giellatekno
-kir	ky	Arab	cldr
 kir	ky	Cyrl	cldr
-kir	ky	Latn	cldr
 kiu		Latn	cldr
 kjg		Laoo	cldr
 kjh		Cyrl	cldr
@@ -350,9 +343,6 @@ ksf		Latn	cldr
 ksh		Latn	cldr
 kua	kj	Latn	cldr
 kum		Cyrl	cldr
-kur	ku	Arab	cldr
-kur	ku	Cyrl	cldr
-kur	ku	Latn	cldr
 kut		Latn	cldr
 kvr		Latn	cldr
 kvx		Arab	cldr
@@ -372,8 +362,6 @@ lbw		Latn	cldr
 lcp		Thai	cldr
 lep		Lepc	cldr
 lez		Cyrl	cldr
-lif		Deva	cldr
-lif		Limb	cldr
 lij		Latn	cldr
 lim	li	Latn	cldr
 lin	ln	Latn	cldr
@@ -400,8 +388,6 @@ lut		Latn	giellatekno
 luy		Latn	cldr
 luz		Arab	cldr
 lwl		Thai	cldr
-lzz		Geor	cldr
-lzz		Latn	cldr
 mad		Latn	cldr
 maf		Latn	cldr
 mag		Deva	cldr
@@ -409,7 +395,6 @@ mah	mh	Latn	cldr
 mai		Deva	cldr
 mak		Latn	cldr
 mal	ml	Mlym	cldr
-man		Latn	cldr
 man		Nkoo	cldr
 mar	mr	Deva	cldr
 mas		Latn	cldr
@@ -445,7 +430,6 @@ mri	mi	Latn	cldr
 mrj		Cyrl	cldr
 mro		Latn	cldr
 msa	ms	Arab	cldr
-msa	ms	Latn	cldr
 mtr		Deva	cldr
 mua		Latn	cldr
 mus		Latn	cldr
@@ -510,8 +494,6 @@ osa		Osge	cldr
 oss	os	Cyrl	cldr
 pag		Latn	cldr
 pam		Latn	cldr
-pan	pa	Arab	cldr
-pan	pa	Guru	cldr
 pap		Latn	cldr
 pau		Latn	cldr
 pcd		Latn	cldr
@@ -521,9 +503,6 @@ pdt		Latn	cldr
 pfl		Latn	cldr
 pko		Latn	cldr
 pms		Latn	cldr
-pnt		Cyrl	cldr
-pnt		Grek	cldr
-pnt		Latn	cldr
 pol	pl	Latn	cldr
 pon		Latn	cldr
 por	pt	Latn	cldr
@@ -542,7 +521,6 @@ rcf		Latn	cldr
 rej		Latn	cldr
 rgn		Latn	cldr
 ria		Latn	cldr
-rif		Latn	cldr
 rif		Tfng	cldr
 rjs		Deva	cldr
 rkt		Beng	cldr
@@ -589,8 +567,6 @@ sei		Latn	cldr
 sel		Cyrl	giellatekno
 ses		Latn	cldr
 sgs		Latn	cldr
-shi		Arab	cldr
-shi		Latn	cldr
 shi		Tfng	cldr
 shn		Mymr	cldr
 sid		Latn	cldr
@@ -610,7 +586,6 @@ smn		Latn	cldr
 smo	sm	Latn	cldr
 sms		Latn	cldr
 sna	sn	Latn	cldr
-snd	sd	Arab	cldr
 snd	sd	Deva	cldr
 snk		Latn	cldr
 som	so	Latn	cldr
@@ -621,8 +596,6 @@ sqi	sq	Latn	cldr
 srb		Latn	cldr
 srd	sc	Latn	cldr
 srn		Latn	cldr
-srp	sr	Cyrl	cldr
-srp	sr	Latn	cldr
 srr		Latn	cldr
 srs		Latn	giellatekno
 srx		Deva	cldr
@@ -659,9 +632,7 @@ tem		Latn	cldr
 teo		Latn	cldr
 ter		Latn	cldr
 tet		Latn	cldr
-tgk	tg	Arab	cldr
 tgk	tg	Cyrl	cldr
-tgk	tg	Latn	cldr
 tgl	tl	Latn	giellatekno
 tha	th	Thai	cldr
 thl		Deva	cldr
@@ -671,15 +642,11 @@ tig		Ethi	cldr
 tir	ti	Ethi	cldr
 tiv		Latn	cldr
 tkl		Latn	cldr
-tkr		Cyrl	cldr
-tkr		Latn	cldr
 tkt		Deva	cldr
 tku		Latn	giellatekno
 tlh		Piqd	giellatekno
 tli		Latn	cldr
 tly		Arab	cldr
-tly		Cyrl	cldr
-tly		Latn	cldr
 tmh		Latn	cldr
 tog		Latn	cldr
 ton	to	Latn	cldr
@@ -695,10 +662,6 @@ tsn	tn	Latn	cldr
 tso	ts	Latn	cldr
 ttj		Latn	cldr
 tts		Thai	cldr
-ttt		Cyrl	cldr
-ttt		Latn	cldr
-tuk	tk	Arab	cldr
-tuk	tk	Cyrl	cldr
 tuk	tk	Latn	cldr
 tum		Latn	cldr
 tur	tr	Latn	cldr
@@ -706,25 +669,16 @@ tuv		Latn	giellatekno
 tvl		Latn	cldr
 twq		Latn	cldr
 tyv		Cyrl	cldr
-tzm		Latn	cldr
 tzm		Tfng	cldr
 ude		Cyrl	cldr
 udm		Cyrl	cldr
 uig	ug	Arab	cldr
-uig	ug	Cyrl	cldr
 ukr	uk	Cyrl	cldr
 uli		Latn	cldr
 umb		Latn	cldr
-unr		Beng	cldr
-unr		Deva	cldr
-unx		Beng	cldr
-unx		Deva	cldr
 urd	ur	Arab	cldr
-uzb	uz	Arab	cldr
-uzb	uz	Cyrl	cldr
 uzb	uz	Latn	cldr
 vai		Latn	cldr
-vai		Vaii	cldr
 vec		Latn	cldr
 ven	ve	Latn	cldr
 vep		Latn	cldr
@@ -766,16 +720,12 @@ yor	yo	Latn	cldr
 yrk		Cyrl	cldr
 yrl		Latn	cldr
 yua		Latn	cldr
-yue		Hans	cldr
-yue		Hant	cldr
 zag		Latn	cldr
 zap		Latn	cldr
 zdj		Arab	cldr
 zea		Latn	cldr
 zgh		Tfng	cldr
 zha	za	Latn	cldr
-zho	zh	Hans	cldr
-zho	zh	Hant	cldr
 zmi		Latn	cldr
 zul	zu	Latn	cldr
 zun		Latn	cldr
