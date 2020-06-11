@@ -1,0 +1,429 @@
+tag3	tag1	script	region	lcid
+afr	af			1078
+afr	af		ZA	1078
+amh	am			1118
+amh	am		ET	1118
+ara	ar			1025
+ara	ar		AE	14337
+ara	ar		BH	15361
+ara	ar		DZ	5121
+ara	ar		EG	3073
+ara	ar		IQ	2049
+ara	ar		JO	11265
+ara	ar		KW	13313
+ara	ar		LB	12289
+ara	ar		LY	4097
+ara	ar		MA	6145
+ara	ar		OM	8193
+ara	ar		QA	16385
+ara	ar		SA	1025
+ara	ar		SY	10241
+ara	ar		TN	7169
+ara	ar		YE	9217
+arn				1146
+arn			CL	1146
+asm	as			1101
+asm	as		IN	1101
+aze	az			1068
+aze	az	Cyrl		2092
+aze	az	Cyrl	AZ	2092
+aze	az	Latn		1068
+aze	az	Latn	AZ	1068
+bak	ba			1133
+bak	ba		RU	1133
+bel	be			1059
+bel	be		BY	1059
+ben	bn			2117
+ben	bn		BD	2117
+ben	bn		IN	1093
+bin				1126
+bin			NG	1126
+bod	bo			1105
+bod	bo		CN	1105
+bos	bs			5146
+bos	bs	Cyrl		8218
+bos	bs	Cyrl	BA	8218
+bos	bs	Latn		5146
+bos	bs	Latn	BA	5146
+bre	br			1150
+bre	br		FR	1150
+bul	bg			1026
+bul	bg		BG	1026
+cat	ca			1027
+cat	ca		ES	1027
+cat	ca		ES	2051
+ces	cs			1029
+ces	cs		CZ	1029
+chr				1116
+chr		Cher		1116
+chr		Cher	US	1116
+cos	co			1155
+cos	co		FR	1155
+cym	cy			1106
+cym	cy		GB	1106
+dan	da			1030
+dan	da		DK	1030
+deu	de			1031
+deu	de		AT	3079
+deu	de		CH	2055
+deu	de		DE	1031
+deu	de		LI	5127
+deu	de		LU	4103
+div	dv			1125
+div	dv		MV	1125
+dsb				2094
+dsb			DE	2094
+dzo	dz			3153
+dzo	dz		BT	3153
+ell	el			1032
+ell	el		GR	1032
+eng	en			1033
+eng	en		029	9225
+eng	en		AU	3081
+eng	en		BZ	10249
+eng	en		CA	4105
+eng	en		GB	2057
+eng	en		HK	15369
+eng	en		ID	14345
+eng	en		IE	6153
+eng	en		IN	16393
+eng	en		JM	8201
+eng	en		MY	17417
+eng	en		NZ	5129
+eng	en		PH	13321
+eng	en		SG	18441
+eng	en		TT	11273
+eng	en		US	1033
+eng	en		ZA	7177
+eng	en		ZW	12297
+est	et			1061
+est	et		EE	1061
+eus	eu			1069
+eus	eu		ES	1069
+fao	fo			1080
+fao	fo		FO	1080
+fas	fa			1065
+fas	fa		IR	1065
+fil				1124
+fil			PH	1124
+fin	fi			1035
+fin	fi		FI	1035
+fra	fr			1036
+fra	fr		029	7180
+fra	fr		BE	2060
+fra	fr		CA	3084
+fra	fr		CD	9228
+fra	fr		CH	4108
+fra	fr		CI	12300
+fra	fr		CM	11276
+fra	fr		FR	1036
+fra	fr		HT	15372
+fra	fr		LU	5132
+fra	fr		MA	14348
+fra	fr		MC	6156
+fra	fr		ML	13324
+fra	fr		RE	8204
+fra	fr		SN	10252
+fry	fy			1122
+fry	fy		NL	1122
+ful	ff			2151
+ful	ff		NG	1127
+ful	ff	Latn		2151
+ful	ff	Latn	SN	2151
+gla	gd			1169
+gla	gd		GB	1169
+gle	ga			2108
+gle	ga		IE	2108
+glg	gl			1110
+glg	gl		ES	1110
+grn	gn			1140
+grn	gn		PY	1140
+gsw			FR	1156
+guj	gu			1095
+guj	gu		IN	1095
+hau	ha			1128
+hau	ha	Latn		1128
+hau	ha	Latn	NG	1128
+haw				1141
+haw			US	1141
+heb	he			1037
+heb	he		IL	1037
+hin	hi			1081
+hin	hi		IN	1081
+hrv	hr			1050
+hrv	hr		BA	4122
+hrv	hr		HR	1050
+hsb				1070
+hsb			DE	1070
+hun	hu			1038
+hun	hu		HU	1038
+hye	hy			1067
+hye	hy		AM	1067
+ibb				1129
+ibb			NG	1129
+ibo	ig			1136
+ibo	ig		NG	1136
+iii	ii			1144
+iii	ii		CN	1144
+iku	iu			2141
+iku	iu	Cans		1117
+iku	iu	Cans	CA	1117
+iku	iu	Latn		2141
+iku	iu	Latn	CA	2141
+ind	id			1057
+ind	id		ID	1057
+isl	is			1039
+isl	is		IS	1039
+ita	it			1040
+ita	it		CH	2064
+ita	it		IT	1040
+jpn	ja			1041
+jpn	ja		JP	1041
+kal	kl			1135
+kal	kl		GL	1135
+kan	kn			1099
+kan	kn		IN	1099
+kas	ks	Deva		2144
+kas	ks	Deva	IN	2144
+kat	ka			1079
+kat	ka		GE	1079
+kau	kr			1137
+kau	kr		NG	1137
+kaz	kk			1087
+kaz	kk		KZ	1087
+khm	km			1107
+khm	km		KH	1107
+kin	rw			1159
+kin	rw		RW	1159
+kir	ky			1088
+kir	ky		KG	1088
+kok				1111
+kok			IN	1111
+kor	ko			1042
+kor	ko		KR	1042
+kur	ku			1170
+kur	ku	Arab		1170
+kur	ku	Arab	IQ	1170
+lao	lo			1108
+lao	lo		LA	1108
+lat	la			1142
+lat	la		001	1142
+lav	lv			1062
+lav	lv		LV	1062
+lit	lt			1063
+lit	lt		LT	1063
+ltz	lb			1134
+ltz	lb		LU	1134
+mal	ml			1100
+mal	ml		IN	1100
+mar	mr			1102
+mar	mr		IN	1102
+mkd	mk			1071
+mkd	mk		MK	1071
+mlt	mt			1082
+mlt	mt		MT	1082
+mni				1112
+mni			IN	1112
+moh				1148
+moh			CA	1148
+mon	mn			1104
+mon	mn		MN	1104
+mon	mn	Cyrl		1104
+mon	mn	Mong		2128
+mon	mn	Mong	CN	2128
+mon	mn	Mong	MN	3152
+mri	mi			1153
+mri	mi		NZ	1153
+msa	ms			1086
+msa	ms		BN	2110
+msa	ms		MY	1086
+mya	my			1109
+mya	my		MM	1109
+nep	ne			1121
+nep	ne		IN	2145
+nep	ne		NP	1121
+nld	nl			1043
+nld	nl		BE	2067
+nld	nl		NL	1043
+nno	nn			2068
+nno	nn		NO	2068
+nob	nb			1044
+nob	nb		NO	1044
+nor	no			1044
+nso				1132
+nso			ZA	1132
+oci	oc			1154
+oci	oc		FR	1154
+ori	or			1096
+ori	or		IN	1096
+orm	om			1138
+orm	om		ET	1138
+pan	pa			1094
+pan	pa		IN	1094
+pan	pa	Arab		2118
+pan	pa	Arab	PK	2118
+pap				1145
+pap			029	1145
+pol	pl			1045
+pol	pl		PL	1045
+por	pt			1046
+por	pt		BR	1046
+por	pt		PT	2070
+prs				1164
+prs			AF	1164
+pus	ps			1123
+pus	ps		AF	1123
+quc				1158
+quc		Latn		1158
+quc		Latn	GT	1158
+quz				1131
+quz			BO	1131
+quz			EC	2155
+quz			PE	3179
+roh	rm			1047
+roh	rm		CH	1047
+ron	ro			1048
+ron	ro		MD	2072
+ron	ro		RO	1048
+rus	ru			1049
+rus	ru		MD	2073
+rus	ru		RU	1049
+sah				1157
+sah			RU	1157
+san	sa			1103
+san	sa		IN	1103
+sin	si			1115
+sin	si		LK	1115
+slk	sk			1051
+slk	sk		SK	1051
+slv	sl			1060
+slv	sl		SI	1060
+sma				7227
+sma			NO	6203
+sma			SE	7227
+sme	se			1083
+sme	se		FI	3131
+sme	se		NO	1083
+sme	se		SE	2107
+smj				5179
+smj			NO	4155
+smj			SE	5179
+smn				9275
+smn			FI	9275
+sms				8251
+sms			FI	8251
+snd	sd			2137
+snd	sd	Arab		2137
+snd	sd	Arab	PK	2137
+snd	sd	Deva		1113
+snd	sd	Deva	IN	1113
+som	so			1143
+som	so		SO	1143
+sot	st			1072
+sot	st		ZA	1072
+spa	es			3082
+spa	es		419	22538
+spa	es		AR	11274
+spa	es		BO	16394
+spa	es		CL	13322
+spa	es		CO	9226
+spa	es		CR	5130
+spa	es		CU	23562
+spa	es		DO	7178
+spa	es		EC	12298
+spa	es		ES	3082
+spa	es		GT	4106
+spa	es		HN	18442
+spa	es		MX	2058
+spa	es		NI	19466
+spa	es		PA	6154
+spa	es		PE	10250
+spa	es		PR	20490
+spa	es		PY	15370
+spa	es		SV	17418
+spa	es		US	21514
+spa	es		UY	14346
+spa	es		VE	8202
+sqi	sq			1052
+sqi	sq		AL	1052
+srp	sr			9242
+srp	sr	Cyrl		10266
+srp	sr	Cyrl	BA	7194
+srp	sr	Cyrl	ME	12314
+srp	sr	Cyrl	RS	10266
+srp	sr	Latn		9242
+srp	sr	Latn	BA	6170
+srp	sr	Latn	ME	11290
+srp	sr	Latn	RS	9242
+swa	sw			1089
+swa	sw		KE	1089
+swe	sv			1053
+swe	sv		FI	2077
+swe	sv		SE	1053
+syr				1114
+syr			SY	1114
+tam	ta			1097
+tam	ta		IN	1097
+tam	ta		LK	2121
+tat	tt			1092
+tat	tt		RU	1092
+tel	te			1098
+tel	te		IN	1098
+tgk	tg			1064
+tgk	tg	Cyrl		1064
+tgk	tg	Cyrl	TJ	1064
+tha	th			1054
+tha	th		TH	1054
+tir	ti			2163
+tir	ti		ER	2163
+tir	ti		ET	1139
+tsn	tn			1074
+tsn	tn		BW	2098
+tsn	tn		ZA	1074
+tso	ts			1073
+tso	ts		ZA	1073
+tuk	tk			1090
+tuk	tk		TM	1090
+tur	tr			1055
+tur	tr		TR	1055
+tzm				2143
+tzm		Arab		1119
+tzm		Arab	MA	1119
+tzm		Latn		2143
+tzm		Latn	DZ	2143
+tzm		Tfng		4191
+tzm		Tfng	MA	4191
+uig	ug			1152
+uig	ug		CN	1152
+ukr	uk			1058
+ukr	uk		UA	1058
+urd	ur			1056
+urd	ur		IN	2080
+urd	ur		PK	1056
+uzb	uz			1091
+uzb	uz	Cyrl		2115
+uzb	uz	Cyrl	UZ	2115
+uzb	uz	Latn		1091
+uzb	uz	Latn	UZ	1091
+ven	ve			1075
+ven	ve		ZA	1075
+vie	vi			1066
+vie	vi		VN	1066
+wol	wo			1160
+wol	wo		SN	1160
+xho	xh			1076
+xho	xh		ZA	1076
+yid	yi			1085
+yid	yi		001	1085
+yor	yo			1130
+yor	yo		NG	1130
+zho	zh			2052
+zho	zh		CN	2052
+zho	zh		HK	3076
+zho	zh		MO	5124
+zho	zh		SG	4100
+zho	zh		TW	1028
+zho	zh	Hans		2052
+zho	zh	Hant		3076
+zul	zu			1077
+zul	zu		ZA	1077
