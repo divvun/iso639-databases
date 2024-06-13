@@ -1213,7 +1213,7 @@ slk	sk	Slovak	slovenčina	cldr
 sin	si	Sinhala	සිංහල	cldr
 hbs	sh	Serbo-Croatian		cldr
 sag	sg	Sango	Sängö	cldr
-sme	se	Northern Sami	davvisámegiella	cldr
+sme	se	North Sámi	davvisámegiella	cldr
 snd	sd	Sindhi	سنڌي	cldr
 srd	sc	Sardinian		cldr
 san	sa	Sanskrit	संस्कृत भाषा	cldr
@@ -5860,7 +5860,7 @@ shw		Shwai	Cwaya	iso639-3, ethnologue
 shx		She		iso639-3
 shy		Tachawit		iso639-3
 shz		Syenara Senoufo		iso639-3
-sia		Akkala Sami		iso639-3
+sia		Akkala Sámi		iso639-3
 sib		Sebop		iso639-3
 sid		Sidamo	Sidaamu Afo	cldr
 sie		Simaa		iso639-3
@@ -5884,10 +5884,10 @@ siy		Sivandi		iso639-3
 siz		Siwi		iso639-3
 sja		Epena	Epéna Pedée	iso639-3, ethnologue
 sjb		Sajau Basap		iso639-3
-sjd		Kildin Sami	Кӣллт са̄мь кӣлл	github
-sje		Pite Sami	Bidumsámegiella	github
+sjd		Kildin Sámi	Кӣллт са̄мь кӣлл	github
+sje		Pite Sámi	Bidumsámegiella	github
 sjg		Assangori		iso639-3
-sjk		Kemi Sami		iso639-3
+sjk		Kemi Sámi		iso639-3
 sjl		Sajalong		iso639-3
 sjm		Mapun	Jama Mapun	iso639-3, ethnologue
 sjn		Sindarin		iso639-3
@@ -5895,8 +5895,8 @@ sjo		Xibe		iso639-3
 sjp		Surjapuri		iso639-3
 sjr		Siar-Lak		iso639-3
 sjs		Senhaja De Srair		iso639-3
-sjt		Ter Sami	saa´mekiill	github
-sju		Ume Sami	Ubmejensámien giella	github
+sjt		Ter Sámi	saa´mekiill	github
+sju		Ume Sámi	Ubmejensámien giella	github
 sjw		Shawnee		iso639-3
 ska		Skagit		iso639-3
 skb		Saek		iso639-3
@@ -5943,22 +5943,22 @@ slw		Sialum		iso639-3
 slx		Salampasu		iso639-3
 sly		Selayar		cldr
 slz		Ma'ya		iso639-3
-sma		Southern Sami	åarjelsaemien gïele	cldr, github
+sma		South Sámi	åarjelsaemien gïele	cldr, github
 smb		Simbari		iso639-3
 smc		Som		iso639-3
 smd		Sama		iso639-3
 smf		Auwe		iso639-3
 smg		Simbali		iso639-3
 smh		Samei		iso639-3
-smj		Lule Sami	julevsámegiella	cldr
+smj		Lule Sámi	julevsámegiella	cldr
 smk		Bolinao	Binobolinao	iso639-3, ethnologue
 sml		Central Sama		iso639-3
 smm		Musasa		iso639-3
-smn		Inari Sami	anarâškielâ	cldr
+smn		Inari Sámi	anarâškielâ	cldr
 smp		Samaritan		iso639-3
 smq		Samo		iso639-3
 smr		Simeulue		iso639-3
-sms		Skolt Sami	nuõrttsääʹmǩiõll	github
+sms		Skolt Sámi	nuõrttsääʹmǩiõll	github
 smt		Simte		iso639-3
 smu		Somray		iso639-3
 smv		Samvedi		iso639-3
