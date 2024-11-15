@@ -324,7 +324,7 @@ agt		Central Cagayan Agta	Agta	iso639-3, ethnologue
 agu		Aguacateco	Qa’yol	iso639-3, ethnologue
 agv		Remontado Dumagat		iso639-3
 agw		Kahua		iso639-3
-agx		Aghul	агъул‎ (Aġul), агъул чӀал‎ (Ağul ҫ̇al)	iso639-3, ethnologue
+agx		Aghul	Агъул‎ (Aġul), агъул чӀал‎ (Ağul ҫ̇al)	iso639-3, ethnologue
 agy		Southern Alta	Alta, Kaboloan	iso639-3, ethnologue
 agz		Mt. Iriga Agta		iso639-3
 aha		Ahanta		iso639-3
@@ -452,7 +452,7 @@ ane		Xârâcùù		iso639-3
 anf		Animere		iso639-3
 ang		Old English		cldr
 anh		Nend		iso639-3
-ani		Andi	къIaваннаб мицци‎ (Qwavannab Micci), мицци‎ (Micci)	iso639-3, ethnologue
+ani		Andi	КъIaваннаб мицци‎ (Qwavannab Micci), мицци‎ (Micci)	iso639-3, ethnologue
 anj		Anor		iso639-3
 ank		Goemai		iso639-3
 anl		Anu-Hkongso Chin		iso639-3
@@ -563,7 +563,7 @@ asp		Algerian Sign Language		iso639-3
 asq		Austrian Sign Language		iso639-3
 asr		Asuri		iso639-3
 ass		Ipulo		iso639-3
-ast		Asturian	asturianu	cldr
+ast		Asturian	Asturianu	cldr
 asu		Tocantins Asurini	Asuriní	iso639-3, ethnologue
 asv		Asoa		iso639-3
 asw		Australian Aborigines Sign Language		iso639-3
@@ -791,7 +791,7 @@ bnx		Bangubangu		iso639-3
 bnw		Bisis		iso639-3
 bnv		Bonerif		iso639-3
 bnu		Bentong		iso639-3
-bos	bs	Bosnian	bosanski	cldr
+bos	bs	Bosnian	Bosanski	cldr
 beo		Beami		iso639-3
 bep		Besoa		iso639-3
 beq		Beembe		iso639-3
@@ -1180,16 +1180,16 @@ wln	wa	Walloon		cldr
 vol	vo	Volapük	Volapük	cldr
 vie	vi	Vietnamese	Tiếng Việt	cldr
 ven	ve	Venda	Tshivenḓa	cldr
-uzb	uz	Uzbek	o‘zbek	cldr
+uzb	uz	Uzbek	O‘zbek	cldr
 urd	ur	Urdu	اردو	cldr
 ukr	uk	Ukrainian	українська	cldr
 uig	ug	Uyghur	ئۇيغۇرچە	cldr
 tah	ty	Tahitian	Reo Tahiti	cldr, ethnologue
 twi	tw	Twi		cldr
-tat	tt	Tatar	татар	cldr
+tat	tt	Tatar	Татар	cldr
 tso	ts	Tsonga	Xitsonga	cldr
 tur	tr	Turkish	Türkçe	cldr
-ton	to	Tongan	lea fakatonga	cldr
+ton	to	Tongan	Lea fakatonga	cldr
 tsn	tn	Tswana	Setswana	cldr
 tgl	tl	Tagalog	Tagalog	cldr, ethnologue
 tuk	tk	Turkmen	Türkmen dili	cldr
@@ -1199,81 +1199,81 @@ tgk	tg	Tajik	тоҷикӣ	cldr
 tel	te	Telugu	తెలుగు	cldr
 tam	ta	Tamil	தமிழ்	cldr
 swa	sw	Swahili	Kiswahili	cldr
-swe	sv	Swedish	svenska	cldr
+swe	sv	Swedish	Svenska	cldr
 sun	su	Sundanese	Sunda	cldr, ethnologue
 sot	st	Southern Sotho	Sesotho	cldr
 ssw	ss	Swati	siSwati	cldr
-srp	sr	Serbian	српски	cldr
-sqi	sq	Albanian	shqip	cldr
+srp	sr	Serbian	Српски	cldr
+sqi	sq	Albanian	Shqip	cldr
 som	so	Somali	Soomaali	cldr
 sna	sn	Shona	chiShona	cldr
 smo	sm	Samoan	Gagana Samoa	cldr, ethnologue
-slv	sl	Slovenian	slovenščina	cldr
-slk	sk	Slovak	slovenčina	cldr
+slv	sl	Slovenian	Slovenščina	cldr
+slk	sk	Slovak	Slovenčina	cldr
 sin	si	Sinhala	සිංහල	cldr
 hbs	sh	Serbo-Croatian		cldr
 sag	sg	Sango	Sängö	cldr
-sme	se	North Sámi	davvisámegiella	cldr
+sme	se	North Sámi	Davvisámegiella	cldr
 snd	sd	Sindhi	سنڌي	cldr
 srd	sc	Sardinian		cldr
 san	sa	Sanskrit	संस्कृत भाषा	cldr
 kin	rw	Kinyarwanda	Kinyarwanda	cldr
-rus	ru	Russian	русский	cldr
-ron	ro	Romanian	română	cldr
+rus	ru	Russian	Русский	cldr
+ron	ro	Romanian	Română	cldr
 run	rn	Rundi	Ikirundi	cldr
-roh	rm	Romansh	rumantsch	cldr
+roh	rm	Romansh	Rumantsch	cldr
 que	qu	Quechua	Runasimi	cldr
-por	pt	Portuguese	português	cldr
+por	pt	Portuguese	Português	cldr
 pus	ps	Pashto	پښتو	cldr
-pol	pl	Polish	polski	cldr
+pol	pl	Polish	Polski	cldr
 pli	pi	Pali		cldr
 pan	pa	Punjabi	ਪੰਜਾਬੀ	cldr
-oss	os	Ossetic	ирон	cldr
+oss	os	Ossetic	Ирон	cldr
 ori	or	Odia	ଓଡ଼ିଆ	cldr
 orm	om	Oromo	Oromoo	cldr
 oji	oj	Ojibwa		cldr
-oci	oc	Occitan	occitan	cldr
+oci	oc	Occitan	Оccitan	cldr
 nya	ny	Nyanja	Chichewa, chiCheŵa‎ (Chichewa), chiNyanja	cldr, ethnologue
 nav	nv	Navajo	Diné	cldr, ethnologue
 nbl	nr	South Ndebele	isiNdebele	cldr
 nor	no	Norwegian	Norsk	cldr, ethnologue
-nno	nn	Norwegian Nynorsk	nynorsk	cldr
+nno	nn	Norwegian Nynorsk	Nynorsk	cldr
 nld	nl	Dutch	Nederlands	cldr
 ndo	ng	Ndonga		cldr
 nep	ne	Nepali	नेपाली	cldr
 nde	nd	North Ndebele	isiNdebele	cldr
-nob	nb	Norwegian Bokmål	norsk bokmål	cldr
+nob	nb	Norwegian Bokmål	Norsk bokmål	cldr
 nau	na	Nauru		cldr
 mya	my	Burmese	မြန်မာ	cldr
 mlt	mt	Maltese	Malti	cldr
 msa	ms	Malay	Melayu	cldr
 mar	mr	Marathi	मराठी	cldr
-mon	mn	Mongolian	монгол	cldr
+mon	mn	Mongolian	Монгол	cldr
 mal	ml	Malayalam	മലയാളം	cldr
-mkd	mk	Macedonian	македонски	cldr
+mkd	mk	Macedonian	Македонски	cldr
 mri	mi	Maori	te reo Maori	cldr, ethnologue
 mah	mh	Marshallese		cldr
 mlg	mg	Malagasy	Malagasy	cldr
-lav	lv	Latvian	latviešu	cldr
+lav	lv	Latvian	Latviešu	cldr
 lub	lu	Luba-Katanga	Tshiluba	cldr
-lit	lt	Lithuanian	lietuvių	cldr
+lit	lt	Lithuanian	Lietuvių	cldr
 lao	lo	Lao	ລາວ	cldr
 lin	ln	Lingala	lingála	cldr
 lim	li	Limburgish	Limbourgeois, Limburgs	cldr, ethnologue
 lug	lg	Ganda	Luganda	cldr
 ltz	lb	Luxembourgish	Lëtzebuergesch	cldr
 lat	la	Latin		cldr
-kir	ky	Kyrgyz	кыргызча	cldr
-cor	kw	Cornish	kernewek	cldr
+kir	ky	Kyrgyz	Кыргызча	cldr
+cor	kw	Cornish	Kernewek	cldr
 kom	kv	Komi		cldr
-kur	ku	Kurdish	kurdî	cldr
+kur	ku	Kurdish	Kurdî	cldr
 kas	ks	Kashmiri	کٲشُر	cldr
 kau	kr	Kanuri		cldr
 kor	ko	Korean	한국어	cldr
 kan	kn	Kannada	ಕನ್ನಡ	cldr
 khm	km	Khmer	ខ្មែរ	cldr
-kal	kl	Kalaallisut	kalaallisut	cldr
-kaz	kk	Kazakh	қазақ тілі	cldr
+kal	kl	Kalaallisut	Kalaallisut	cldr
+kaz	kk	Kazakh	Қазақ тілі	cldr
 kua	kj	Kuanyama	Oshikwanyama	cldr, ethnologue
 kik	ki	Kikuyu	Gikuyu	cldr
 kon	kg	Kongo		cldr
@@ -1281,20 +1281,20 @@ kat	ka	Georgian	ქართული	cldr
 jav	jv	Javanese	Basa Jawa	cldr
 jpn	ja	Japanese	日本語	cldr
 iku	iu	Inuktitut	ᐃᓄᒃᑎᑐᑦ	cldr
-ita	it	Italian	italiano	cldr
-isl	is	Icelandic	íslenska	cldr
+ita	it	Italian	Italiano	cldr
+isl	is	Icelandic	Íslenska	cldr
 ido	io	Ido		cldr
 ipk	ik	Inupiaq		cldr
 iii	ii	Sichuan Yi	ꆈꌠꉙ	cldr
 ibo	ig	Igbo	Igbo	cldr
 ile	ie	Interlingue		cldr
 ind	id	Indonesian	Indonesia	cldr
-ina	ia	Interlingua	interlingua	cldr
+ina	ia	Interlingua	Interlingua	cldr
 her	hz	Herero		cldr
 hye	hy	Armenian	հայերեն	cldr
-hun	hu	Hungarian	magyar	cldr
+hun	hu	Hungarian	Magyar	cldr
 hat	ht	Haitian Creole	Ayisyen, Kreyòl	cldr, ethnologue
-hrv	hr	Croatian	hrvatski	cldr
+hrv	hr	Croatian	Hrvatski	cldr
 hmo	ho	Hiri Motu		cldr
 hin	hi	Hindi	हिन्दी	cldr
 heb	he	Hebrew	עברית	cldr
@@ -1302,31 +1302,31 @@ hau	ha	Hausa	Hausa	cldr
 glv	gv	Manx	Gaelg	cldr
 guj	gu	Gujarati	ગુજરાતી	cldr
 grn	gn	Guarani		cldr
-glg	gl	Galician	galego	cldr
+glg	gl	Galician	Galego	cldr
 gla	gd	Scottish Gaelic	Gàidhlig	cldr
 gle	ga	Irish	Gaeilge	cldr
 fry	fy	Western Frisian	Frysk	cldr
-fra	fr	French	français	cldr
-fao	fo	Faroese	føroyskt	cldr
+fra	fr	French	Français	cldr
+fao	fo	Faroese	Føroyskt	cldr
 fij	fj	Fijian		cldr
-fin	fi	Finnish	suomi	cldr
+fin	fi	Finnish	Suomi	cldr
 ful	ff	Fulah	Pulaar	cldr
 fas	fa	Persian	فارسی	cldr
-eus	eu	Basque	euskara	cldr
-est	et	Estonian	eesti	cldr
-spa	es	Spanish	español	cldr
-epo	eo	Esperanto	esperanto	cldr
+eus	eu	Basque	Euskara	cldr
+est	et	Estonian	Eesti	cldr
+spa	es	Spanish	Español	cldr
+epo	eo	Esperanto	Esperanto	cldr
 eng	en	English	English	cldr
 ell	el	Greek	Ελληνικά	cldr
 ewe	ee	Ewe	Eʋegbe	cldr
 dzo	dz	Dzongkha	རྫོང་ཁ	cldr
 div	dv	Divehi	ދިވެހިބަސް	cldr
 deu	de	German	Deutsch	cldr
-dan	da	Danish	dansk	cldr
+dan	da	Danish	Dansk	cldr
 cym	cy	Welsh	Cymraeg	cldr
 chv	cv	Chuvash	Чӑвашла	cldr
-chu	cu	Church Slavic	церковнослове́нскїй	cldr
-ces	cs	Czech	čeština	cldr
+chu	cu	Church Slavic	Церковнослове́нскїй	cldr
+ces	cs	Czech	Čeština	cldr
 cre	cr	Cree		cldr
 cos	co	Corsican	Corsu	cldr, ethnologue
 cha	ch	Chamorro	Chamorru	cldr, ethnologue
@@ -1406,7 +1406,7 @@ chm		Mari		cldr
 chn		Chinook Jargon	Chinuk Wawa	cldr, ethnologue
 cho		Choctaw		cldr
 chp		Chipewyan		cldr
-chq		Quiotepec Chinantec	juu jmiih	iso639-3, ethnologue
+chq		Quiotepec Chinantec	Juu jmiih	iso639-3, ethnologue
 chr		Cherokee	ᏣᎳᎩ	cldr
 cht		Cholón		iso639-3
 chw		Chuwabu		iso639-3
@@ -1839,7 +1839,7 @@ drs		Gedeo		iso639-3
 drt		Drents		iso639-3
 dru		Rukai		iso639-3
 dry		Darai		iso639-3
-dsb		Lower Sorbian	dolnoserbšćina	cldr
+dsb		Lower Sorbian	Dolnoserbšćina	cldr
 dse		Dutch Sign Language		iso639-3
 dsh		Daasanach		iso639-3
 dsi		Disa		iso639-3
@@ -1862,7 +1862,7 @@ dts		Toro So Dogon		iso639-3
 dtt		Toro Tegu Dogon		iso639-3
 dtu		Tebul Ure Dogon		iso639-3
 dty		Dotyali		iso639-3
-dua		Duala	duálá	cldr
+dua		Duala	Duálá	cldr
 dub		Dubli		iso639-3
 duc		Duna		iso639-3
 dud		Hun-Saare		iso639-3
@@ -1900,7 +1900,7 @@ dyg		Villa Viciosa Agta		iso639-3
 dyi		Djimini Senoufo		iso639-3
 dym		Yanda Dom Dogon		iso639-3
 dyn		Dyangadi		iso639-3
-dyo		Jola-Fonyi	joola	cldr
+dyo		Jola-Fonyi	Joola	cldr
 dyu		Dyula	Julakan	cldr, ethnologue
 dyy		Dyaabugay		iso639-3
 dza		Tunzu		iso639-3
@@ -2019,7 +2019,7 @@ etz		Semimi		iso639-3
 eve		Even		iso639-3
 evh		Uvbie		iso639-3
 evn		Evenki		iso639-3
-ewo		Ewondo	ewondo	cldr
+ewo		Ewondo	Ewondo	cldr
 ext		Extremaduran	Barranquênhu	cldr, ethnologue
 eya		Eyak		iso639-3
 eyo		Keiyo		iso639-3
@@ -2103,7 +2103,7 @@ fuj		Ko		iso639-3
 fum		Fum		iso639-3
 fun		Fulniô		iso639-3
 fuq		Central-Eastern Niger Fulfulde		iso639-3
-fur		Friulian	furlan	cldr
+fur		Friulian	Furlan	cldr
 fut		Futuna-Aniwa		iso639-3
 fuu		Furu		iso639-3
 fuv		Nigerian Fulfulde	Fulfulde	iso639-3, ethnologue
@@ -2575,7 +2575,7 @@ hru		Hruso		iso639-3
 hrw		Warwar Feni		iso639-3
 hrx		Hunsrik		iso639-3
 hrz		Harzani		iso639-3
-hsb		Upper Sorbian	hornjoserbšćina	cldr
+hsb		Upper Sorbian	Hornjoserbšćina	cldr
 hsh		Hungarian Sign Language		iso639-3
 hsl		Hausa Sign Language		iso639-3
 hsn		Xiang Chinese	湘语‎ (Xiang)	cldr, ethnologue
@@ -3005,7 +3005,7 @@ kdw		Koneraw		iso639-3
 kdx		Kam		iso639-3
 kdy		Keder		iso639-3
 kdz		Kwaja		iso639-3
-kea		Kabuverdianu	kabuverdianu	cldr
+kea		Kabuverdianu	Kabuverdianu	cldr
 keb		Kélé		iso639-3
 kec		Keiga		iso639-3
 ked		Kerewe		iso639-3
@@ -3114,7 +3114,7 @@ kih		Kilmeri		iso639-3
 kii		Kitsai		iso639-3
 kij		Kilivila		iso639-3
 kil		Kariya		iso639-3
-kim		Karagas	тоъфа дыл‎ (tofa dyl)	iso639-3, ethnologue
+kim		Karagas	Тоъфа дыл‎ (tofa dyl)	iso639-3, ethnologue
 kio		Kiowa	Cáuijògà	iso639-3, ethnologue
 kip		Sheshi Kham		iso639-3
 kiq		Kosadle		iso639-3
@@ -3160,7 +3160,7 @@ kkf		Kalaktang Monpa		iso639-3
 kkg		Mabaka Valley Kalinga		iso639-3
 kkh		Khün		iso639-3
 kki		Kagulu		iso639-3
-kkj		Kako	kakɔ	cldr
+kkj		Kako	Кakɔ	cldr
 kkk		Kokota		iso639-3
 kkl		Kosarek Yale		iso639-3
 kkm		Kiong		iso639-3
@@ -3352,7 +3352,7 @@ ksb		Shambala	Kishambaa	cldr
 ksc		Southern Kalinga		iso639-3
 ksd		Kuanua		iso639-3
 kse		Kuni		iso639-3
-ksf		Bafia	rikpa	cldr
+ksf		Bafia	Rikpa	cldr
 ksg		Kusaghe		iso639-3
 ksh		Colognian	Kölsch	cldr
 ksi		Krisa		iso639-3
@@ -3817,7 +3817,7 @@ lrz		Lemerig		iso639-3
 lsa		Lasgerdi		iso639-3
 lsd		Lishana Deni		iso639-3
 lse		Lusengo		iso639-3
-che	ce	Chechen	нохчийн	cldr
+che	ce	Chechen	Нохчийн	cldr
 lsh		Lish		iso639-3
 lsi		Lashi	Lacid	iso639-3, ethnologue
 lsl		Latvian Sign Language		iso639-3
@@ -3941,7 +3941,7 @@ mco		Coatlán Mixe	Ayuk	iso639-3, ethnologue
 mcp		Makaa		iso639-3
 mcq		Ese		iso639-3
 mcr		Menya		iso639-3
-mcs		Mambai	dâg tì mà̧mbày	iso639-3, ethnologue
+mcs		Mambai	Dâg tì mà̧mbày	iso639-3, ethnologue
 mct		Mengisa		iso639-3
 mcu		Cameroon Mambila		iso639-3
 mcv		Minanibai		iso639-3
@@ -4038,7 +4038,7 @@ mgk		Mawes		iso639-3
 mgl		Maleu-Kilenge		iso639-3
 mgm		Mambae		iso639-3
 mgn		Mbangi		iso639-3
-mgo		Metaʼ	metaʼ	cldr
+mgo		Metaʼ	Metaʼ	cldr
 mgp		Eastern Magar		iso639-3
 mgq		Malila	Bamalila	iso639-3, ethnologue
 mgr		Mambwe-Lungu		iso639-3
@@ -5404,7 +5404,7 @@ prc		Parachi		iso639-3
 prd		Parsi-Dari		iso639-3
 pre		Principense		iso639-3
 prf		Paranan		iso639-3
-prg		Prussian	prūsiskan	cldr
+prg		Prussian	Prūsiskan	cldr
 prh		Porohanon		iso639-3
 pri		Paicî	Paicî	iso639-3, ethnologue
 prk		Parauk		iso639-3
@@ -5677,7 +5677,7 @@ rts		Yurats		iso639-3
 rtw		Rathawi		iso639-3
 rub		Gungu		iso639-3
 ruc		Ruuli		iso639-3
-rue		Rusyn	русиньскый язык‎ (Rusynska mova)	cldr, ethnologue
+rue		Rusyn	Русиньскый язык‎ (Rusynska mova)	cldr, ethnologue
 ruf		Luguru		iso639-3
 rug		Roviana		cldr
 ruh		Ruga		iso639-3
@@ -5707,7 +5707,7 @@ sac		Meskwaki		iso639-3
 sad		Sandawe	Sandawso	cldr, ethnologue
 sae		Sabanê		iso639-3
 saf		Safaliba	Safaliba	iso639-3, ethnologue
-sah		Sakha	саха тыла	cldr
+sah		Sakha	Саха тыла	cldr
 saj		Sahu		iso639-3
 sak		Sake		iso639-3
 sam		Samaritan Aramaic		cldr
@@ -5793,7 +5793,7 @@ sed		Sedang		iso639-3
 see		Seneca		cldr
 sef		Cebaara Senoufo		iso639-3
 seg		Segeju		iso639-3
-seh		Sena	sena	cldr
+seh		Sena	Sena	cldr
 sei		Seri	Cmiique Iitom	cldr, ethnologue
 sej		Sene		iso639-3
 sek		Sekani	Tse’khene	iso639-3, ethnologue
@@ -5895,7 +5895,7 @@ sjo		Xibe		iso639-3
 sjp		Surjapuri		iso639-3
 sjr		Siar-Lak		iso639-3
 sjs		Senhaja De Srair		iso639-3
-sjt		Ter Sámi	saa´mekiill	github
+sjt		Ter Sámi	Saa´mekiill	github
 sju		Ume Sámi	Ubmejensámien giella	github
 sjw		Shawnee		iso639-3
 ska		Skagit		iso639-3
@@ -5943,22 +5943,22 @@ slw		Sialum		iso639-3
 slx		Salampasu		iso639-3
 sly		Selayar		cldr
 slz		Ma'ya		iso639-3
-sma		South Sámi	åarjelsaemien gïele	cldr, github
+sma		South Sámi	Åarjelsaemien gïele	cldr, github
 smb		Simbari		iso639-3
 smc		Som		iso639-3
 smd		Sama		iso639-3
 smf		Auwe		iso639-3
 smg		Simbali		iso639-3
 smh		Samei		iso639-3
-smj		Lule Sámi	julevsámegiella	cldr
+smj		Lule Sámi	Julevsámegiella	cldr
 smk		Bolinao	Binobolinao	iso639-3, ethnologue
 sml		Central Sama		iso639-3
 smm		Musasa		iso639-3
-smn		Inari Sámi	anarâškielâ	cldr
+smn		Inari Sámi	Anarâškielâ	cldr
 smp		Samaritan		iso639-3
 smq		Samo		iso639-3
 smr		Simeulue		iso639-3
-sms		Skolt Sámi	nuõrttsääʹmǩiõll	github
+sms		Skolt Sámi	Nuõrttsääʹmǩiõll	github
 smt		Simte		iso639-3
 smu		Somray		iso639-3
 smv		Samvedi		iso639-3
@@ -5997,7 +5997,7 @@ sog		Sogdien		cldr
 soh		Aka		iso639-3
 soi		Sonha		iso639-3
 soj		Soi		iso639-3
-sok		Sokoro	soŋoroŋ	iso639-3, github
+sok		Sokoro	Soŋoroŋ	iso639-3, github
 sol		Solos		iso639-3
 soo		Songo		iso639-3
 sop		Songe		iso639-3
@@ -6690,7 +6690,7 @@ tyr		Tai Daeng		iso639-3
 tys		Tày Sa Pa		iso639-3
 tyt		Tày Tac		iso639-3
 tyu		Kua		iso639-3
-tyv		Tuvinian	тыва‎ (tyva), тыва дыл‎ (tyva dyl)	cldr, ethnologue
+tyv		Tuvinian	Тыва‎ (tyva), тыва дыл‎ (tyva dyl)	cldr, ethnologue
 tyx		Teke-Tyee		iso639-3
 tyz		Tày		iso639-3
 tza		Tanzanian Sign Language		iso639-3
@@ -7144,7 +7144,7 @@ xag		Aghwan		iso639-3
 xai		Kaimbé		iso639-3
 xaj		Ararandewára		iso639-3
 xak		Máku		iso639-3
-xal		Kalmyk	хальмг‎ (Xaľmg), хальмг келн‎ (Xaľmg keln)	cldr, ethnologue
+xal		Kalmyk	Хальмг‎ (Xaľmg), хальмг келн‎ (Xaľmg keln)	cldr, ethnologue
 xam		/Xam		iso639-3
 xan		Xamtanga		iso639-3
 xao		Khao		iso639-3
@@ -7458,7 +7458,7 @@ zho	zh	Chinese	中文	cldr
 yas		Nugunu (Cameroon)		iso639-3
 yat		Yambeta		iso639-3
 yau		Yuwana		iso639-3
-yav		Yangben	nuasue	cldr
+yav		Yangben	Nuasue	cldr
 yaw		Yawalapití		iso639-3
 yax		Yauma		iso639-3
 yay		Agwagwune		iso639-3
@@ -7678,7 +7678,7 @@ zae		Yareni Zapotec		iso639-3
 zaf		Ayoquesco Zapotec		iso639-3
 zag		Zaghawa	Beria	iso639-3, ethnologue
 zah		Zangwal		iso639-3
-zai		Isthmus Zapotec	diidxazá	iso639-3, ethnologue
+zai		Isthmus Zapotec	Diidxazá	iso639-3, ethnologue
 zaj		Zaramo		iso639-3
 zak		Zanaki		iso639-3
 zal		Zauzou		iso639-3
