@@ -10,7 +10,7 @@ While the data has initially been generated from standard sources, contributions
 
 ### Interpretation
 
-`tag3` and `tag1` columns represent the ISO 639-3 and -1 tags respectively. The `name` field is the "most recognisable" form of the language name, typically in English, to be used as a fallback where an autonym is not available.
+`tag3` and `tag1` columns represent the ISO 639-3 (or -5) and -1 tags respectively. The `name` field is the "most recognisable" form of the language name, typically in English, to be used as a fallback where an autonym is not available.
 
 The `autonym` field is the name of the language *in* that language. If this field is blank, it means that there is no confirmed autonym for this language in this database and you may use the `name` field as a fallback.
 
@@ -23,6 +23,7 @@ Here are the currently utilised sources by this table:
 - `cldr` - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
 - `ethnologue` - [Ethnologue](https://www.ethnologue.com/), only autonyms where specified.
 - `iso639-3` - [ISO 639-3](http://www.sil.org/iso639-3/), reference language names only.
+- `iso639-5` - [ISO 639-5](https://www.loc.gov/standards/iso639-5/id.php), reference language family names only.
 - `github` - [This repository](https://github.com/bbqsrc/iso639-databases)
 
 ## ISO 639 Default Script (ISO 15924) - iso639-default-script.tsv
@@ -50,6 +51,14 @@ The LCIDs used in this table are defined by [MS-OE376: 2.1.1906 Part 4 Section 7
 `tag3` and `tag1` columns represent the ISO 639-3 and -1 tags respectively.
 
 In effect, if a field is blank, it indicates that in BCP47 form, that segment should not be included to be equal to the given LCID. For example, `ar` is `1025`, while `ar-AE` is `14337`.
+
+## ISO 639-5 Language Families - iso639-5.json
+
+This table is sourced from the authoritative source, the [Library of Congress](https://www.loc.gov/standards/iso639-5/id.php).
+
+### Interpretation
+
+`tag5` represents the ISO 639-5 language family tag, `name` represents the English name of the language family, and `hierarchy` represents the hierarchy of the language family.
 
 # License
 

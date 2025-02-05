@@ -1,0 +1,938 @@
+[
+  {
+    "tag5": "aav",
+    "name": "Austro-Asiatic languages",
+    "hierarchy": [
+      "aav"
+    ]
+  },
+  {
+    "tag5": "afa",
+    "name": "Afro-Asiatic languages",
+    "hierarchy": [
+      "afa"
+    ]
+  },
+  {
+    "tag5": "alg",
+    "name": "Algonquian languages",
+    "hierarchy": [
+      "nai",
+      "aql",
+      "alg"
+    ]
+  },
+  {
+    "tag5": "alv",
+    "name": "Atlantic-Congo languages",
+    "hierarchy": [
+      "nic",
+      "alv"
+    ]
+  },
+  {
+    "tag5": "apa",
+    "name": "Apache languages",
+    "hierarchy": [
+      "nai",
+      "xnd",
+      "ath",
+      "apa"
+    ]
+  },
+  {
+    "tag5": "aqa",
+    "name": "Alacalufan languages",
+    "hierarchy": [
+      "sai",
+      "aqa"
+    ]
+  },
+  {
+    "tag5": "aql",
+    "name": "Algic languages",
+    "hierarchy": [
+      "nai",
+      "aql"
+    ]
+  },
+  {
+    "tag5": "art",
+    "name": "Artificial languages",
+    "hierarchy": [
+      "art"
+    ]
+  },
+  {
+    "tag5": "ath",
+    "name": "Athapascan languages",
+    "hierarchy": [
+      "nai",
+      "xnd",
+      "ath"
+    ]
+  },
+  {
+    "tag5": "auf",
+    "name": "Arauan languages",
+    "hierarchy": [
+      "sai",
+      "awd",
+      "auf"
+    ]
+  },
+  {
+    "tag5": "aus",
+    "name": "Australian languages",
+    "hierarchy": [
+      "aus"
+    ]
+  },
+  {
+    "tag5": "awd",
+    "name": "Arawakan languages",
+    "hierarchy": [
+      "sai",
+      "awd"
+    ]
+  },
+  {
+    "tag5": "azc",
+    "name": "Uto-Aztecan languages",
+    "hierarchy": [
+      "nai",
+      "azc"
+    ]
+  },
+  {
+    "tag5": "bad",
+    "name": "Banda languages",
+    "hierarchy": [
+      "nic",
+      "alv",
+      "bad"
+    ]
+  },
+  {
+    "tag5": "bai",
+    "name": "Bamileke languages",
+    "hierarchy": [
+      "nic",
+      "alv",
+      "bai"
+    ]
+  },
+  {
+    "tag5": "bat",
+    "name": "Baltic languages",
+    "hierarchy": [
+      "ine",
+      "bat"
+    ]
+  },
+  {
+    "tag5": "ber",
+    "name": "Berber languages",
+    "hierarchy": [
+      "afa",
+      "ber"
+    ]
+  },
+  {
+    "tag5": "bih",
+    "name": "Bihari languages",
+    "hierarchy": [
+      "ine",
+      "iir",
+      "bih"
+    ]
+  },
+  {
+    "tag5": "bnt",
+    "name": "Bantu languages",
+    "hierarchy": [
+      "nic",
+      "alv",
+      "bnt"
+    ]
+  },
+  {
+    "tag5": "btk",
+    "name": "Batak languages",
+    "hierarchy": [
+      "map",
+      "poz",
+      "pqw",
+      "btk"
+    ]
+  },
+  {
+    "tag5": "cai",
+    "name": "Central American Indian languages",
+    "hierarchy": [
+      "cai"
+    ]
+  },
+  {
+    "tag5": "cau",
+    "name": "Caucasian languages",
+    "hierarchy": [
+      "cau"
+    ]
+  },
+  {
+    "tag5": "cba",
+    "name": "Chibchan languages",
+    "hierarchy": [
+      "sai",
+      "cba"
+    ]
+  },
+  {
+    "tag5": "ccn",
+    "name": "North Caucasian languages",
+    "hierarchy": [
+      "cau",
+      "ccn"
+    ]
+  },
+  {
+    "tag5": "ccs",
+    "name": "South Caucasian languages",
+    "hierarchy": [
+      "cau",
+      "ccs"
+    ]
+  },
+  {
+    "tag5": "cdc",
+    "name": "Chadic languages",
+    "hierarchy": [
+      "afa",
+      "cdc"
+    ]
+  },
+  {
+    "tag5": "cdd",
+    "name": "Caddoan languages",
+    "hierarchy": [
+      "nai",
+      "cdd"
+    ]
+  },
+  {
+    "tag5": "cel",
+    "name": "Celtic languages",
+    "hierarchy": [
+      "ine",
+      "cel"
+    ]
+  },
+  {
+    "tag5": "cmc",
+    "name": "Chamic languages",
+    "hierarchy": [
+      "map",
+      "poz",
+      "pqw",
+      "cmc"
+    ]
+  },
+  {
+    "tag5": "cpe",
+    "name": "Creoles and pidgins, English‑based",
+    "hierarchy": [
+      "crp",
+      "cpe"
+    ]
+  },
+  {
+    "tag5": "cpf",
+    "name": "Creoles and pidgins, French‑based",
+    "hierarchy": [
+      "crp",
+      "cpf"
+    ]
+  },
+  {
+    "tag5": "cpp",
+    "name": "Creoles and pidgins, Portuguese-based",
+    "hierarchy": [
+      "crp",
+      "cpp"
+    ]
+  },
+  {
+    "tag5": "crp",
+    "name": "Creoles and pidgins",
+    "hierarchy": [
+      "crp"
+    ]
+  },
+  {
+    "tag5": "csu",
+    "name": "Central Sudanic languages",
+    "hierarchy": [
+      "ssa",
+      "csu"
+    ]
+  },
+  {
+    "tag5": "cus",
+    "name": "Cushitic languages",
+    "hierarchy": [
+      "afa",
+      "cus"
+    ]
+  },
+  {
+    "tag5": "day",
+    "name": "Land Dayak languages",
+    "hierarchy": [
+      "day"
+    ]
+  },
+  {
+    "tag5": "dmn",
+    "name": "Mande languages",
+    "hierarchy": [
+      "nic",
+      "dmn"
+    ]
+  },
+  {
+    "tag5": "dra",
+    "name": "Dravidian languages",
+    "hierarchy": [
+      "dra"
+    ]
+  },
+  {
+    "tag5": "egx",
+    "name": "Egyptian languages",
+    "hierarchy": [
+      "afa",
+      "egx"
+    ]
+  },
+  {
+    "tag5": "esx",
+    "name": "Eskimo-Aleut languages",
+    "hierarchy": [
+      "esx"
+    ]
+  },
+  {
+    "tag5": "euq",
+    "name": "Basque (family)",
+    "hierarchy": [
+      "euq"
+    ]
+  },
+  {
+    "tag5": "fiu",
+    "name": "Finno-Ugrian languages",
+    "hierarchy": [
+      "urj",
+      "fiu"
+    ]
+  },
+  {
+    "tag5": "fox",
+    "name": "Formosan languages",
+    "hierarchy": [
+      "map",
+      "fox"
+    ]
+  },
+  {
+    "tag5": "gem",
+    "name": "Germanic languages",
+    "hierarchy": [
+      "ine",
+      "gem"
+    ]
+  },
+  {
+    "tag5": "gme",
+    "name": "East Germanic languages",
+    "hierarchy": [
+      "ine",
+      "gem",
+      "gme"
+    ]
+  },
+  {
+    "tag5": "gmq",
+    "name": "North Germanic languages",
+    "hierarchy": [
+      "ine",
+      "gem",
+      "gmq"
+    ]
+  },
+  {
+    "tag5": "gmw",
+    "name": "West Germanic languages",
+    "hierarchy": [
+      "ine",
+      "gem",
+      "gmw"
+    ]
+  },
+  {
+    "tag5": "grk",
+    "name": "Greek languages",
+    "hierarchy": [
+      "ine",
+      "grk"
+    ]
+  },
+  {
+    "tag5": "hmx",
+    "name": "Hmong-Mien languages",
+    "hierarchy": [
+      "hmx"
+    ]
+  },
+  {
+    "tag5": "hok",
+    "name": "Hokan languages",
+    "hierarchy": [
+      "nai",
+      "hok"
+    ]
+  },
+  {
+    "tag5": "hyx",
+    "name": "Armenian (family)",
+    "hierarchy": [
+      "ine",
+      "hyx"
+    ]
+  },
+  {
+    "tag5": "iir",
+    "name": "Indo-Iranian languages",
+    "hierarchy": [
+      "ine",
+      "iir"
+    ]
+  },
+  {
+    "tag5": "ijo",
+    "name": "Ijo languages",
+    "hierarchy": [
+      "nic",
+      "alv",
+      "ijo"
+    ]
+  },
+  {
+    "tag5": "inc",
+    "name": "Indic languages",
+    "hierarchy": [
+      "ine",
+      "iir",
+      "inc"
+    ]
+  },
+  {
+    "tag5": "ine",
+    "name": "Indo-European languages",
+    "hierarchy": [
+      "ine"
+    ]
+  },
+  {
+    "tag5": "ira",
+    "name": "Iranian languages",
+    "hierarchy": [
+      "ine",
+      "iir",
+      "ira"
+    ]
+  },
+  {
+    "tag5": "iro",
+    "name": "Iroquoian languages",
+    "hierarchy": [
+      "nai",
+      "iro"
+    ]
+  },
+  {
+    "tag5": "itc",
+    "name": "Italic languages",
+    "hierarchy": [
+      "ine",
+      "itc"
+    ]
+  },
+  {
+    "tag5": "jpx",
+    "name": "Japanese (family)",
+    "hierarchy": [
+      "jpx"
+    ]
+  },
+  {
+    "tag5": "kar",
+    "name": "Karen languages",
+    "hierarchy": [
+      "sit",
+      "tbq",
+      "kar"
+    ]
+  },
+  {
+    "tag5": "kdo",
+    "name": "Kordofanian languages",
+    "hierarchy": [
+      "nic",
+      "kdo"
+    ]
+  },
+  {
+    "tag5": "khi",
+    "name": "Khoisan languages",
+    "hierarchy": [
+      "khi"
+    ]
+  },
+  {
+    "tag5": "kro",
+    "name": "Kru languages",
+    "hierarchy": [
+      "nic",
+      "alv",
+      "kro"
+    ]
+  },
+  {
+    "tag5": "map",
+    "name": "Austronesian languages",
+    "hierarchy": [
+      "map"
+    ]
+  },
+  {
+    "tag5": "mkh",
+    "name": "Mon-Khmer languages",
+    "hierarchy": [
+      "aav",
+      "mkh"
+    ]
+  },
+  {
+    "tag5": "mno",
+    "name": "Manobo languages",
+    "hierarchy": [
+      "map",
+      "poz",
+      "pqw",
+      "phi",
+      "mno"
+    ]
+  },
+  {
+    "tag5": "mun",
+    "name": "Munda languages",
+    "hierarchy": [
+      "aav",
+      "mun"
+    ]
+  },
+  {
+    "tag5": "myn",
+    "name": "Mayan languages",
+    "hierarchy": [
+      "cai",
+      "myn"
+    ]
+  },
+  {
+    "tag5": "nah",
+    "name": "Nahuatl languages",
+    "hierarchy": [
+      "nai",
+      "azc",
+      "nah"
+    ]
+  },
+  {
+    "tag5": "nai",
+    "name": "North American Indian languages",
+    "hierarchy": [
+      "nai"
+    ]
+  },
+  {
+    "tag5": "ngf",
+    "name": "Trans-New Guinea languages",
+    "hierarchy": [
+      "paa",
+      "ngf"
+    ]
+  },
+  {
+    "tag5": "nic",
+    "name": "Niger-Kordofanian languages",
+    "hierarchy": [
+      "nic"
+    ]
+  },
+  {
+    "tag5": "nub",
+    "name": "Nubian languages",
+    "hierarchy": [
+      "ssa",
+      "sdv",
+      "nub"
+    ]
+  },
+  {
+    "tag5": "omq",
+    "name": "Oto-Manguean languages",
+    "hierarchy": [
+      "cai",
+      "omq"
+    ]
+  },
+  {
+    "tag5": "omv",
+    "name": "Omotic languages",
+    "hierarchy": [
+      "afa",
+      "omv"
+    ]
+  },
+  {
+    "tag5": "oto",
+    "name": "Otomian languages",
+    "hierarchy": [
+      "cai",
+      "omq",
+      "oto"
+    ]
+  },
+  {
+    "tag5": "paa",
+    "name": "Papuan languages",
+    "hierarchy": [
+      "paa"
+    ]
+  },
+  {
+    "tag5": "phi",
+    "name": "Philippine languages",
+    "hierarchy": [
+      "map",
+      "poz",
+      "pqw",
+      "phi"
+    ]
+  },
+  {
+    "tag5": "plf",
+    "name": "Central Malayo-Polynesian languages",
+    "hierarchy": [
+      "map",
+      "poz",
+      "plf"
+    ]
+  },
+  {
+    "tag5": "poz",
+    "name": "Malayo-Polynesian languages",
+    "hierarchy": [
+      "map",
+      "poz"
+    ]
+  },
+  {
+    "tag5": "pqe",
+    "name": "Eastern Malayo-Polynesian languages",
+    "hierarchy": [
+      "map",
+      "poz",
+      "pqe"
+    ]
+  },
+  {
+    "tag5": "pqw",
+    "name": "Western Malayo-Polynesian languages",
+    "hierarchy": [
+      "map",
+      "poz",
+      "pqw"
+    ]
+  },
+  {
+    "tag5": "pra",
+    "name": "Prakrit languages",
+    "hierarchy": [
+      "ine",
+      "iir",
+      "inc",
+      "pra"
+    ]
+  },
+  {
+    "tag5": "qwe",
+    "name": "Quechuan (family)",
+    "hierarchy": [
+      "sai",
+      "qwe"
+    ]
+  },
+  {
+    "tag5": "roa",
+    "name": "Romance languages",
+    "hierarchy": [
+      "ine",
+      "itc",
+      "roa"
+    ]
+  },
+  {
+    "tag5": "sai",
+    "name": "South American Indian languages",
+    "hierarchy": [
+      "sai"
+    ]
+  },
+  {
+    "tag5": "sal",
+    "name": "Salishan languages",
+    "hierarchy": [
+      "nai",
+      "sal"
+    ]
+  },
+  {
+    "tag5": "sdv",
+    "name": "Eastern Sudanic languages",
+    "hierarchy": [
+      "ssa",
+      "sdv"
+    ]
+  },
+  {
+    "tag5": "sem",
+    "name": "Semitic languages",
+    "hierarchy": [
+      "afa",
+      "sem"
+    ]
+  },
+  {
+    "tag5": "sgn",
+    "name": "sign languages",
+    "hierarchy": [
+      "sgn"
+    ]
+  },
+  {
+    "tag5": "sio",
+    "name": "Siouan languages",
+    "hierarchy": [
+      "nai",
+      "sio"
+    ]
+  },
+  {
+    "tag5": "sit",
+    "name": "Sino-Tibetan languages",
+    "hierarchy": [
+      "sit"
+    ]
+  },
+  {
+    "tag5": "sla",
+    "name": "Slavic languages",
+    "hierarchy": [
+      "ine",
+      "sla"
+    ]
+  },
+  {
+    "tag5": "smi",
+    "name": "Sami languages",
+    "hierarchy": [
+      "urj",
+      "fiu",
+      "smi"
+    ]
+  },
+  {
+    "tag5": "son",
+    "name": "Songhai languages",
+    "hierarchy": [
+      "ssa",
+      "son"
+    ]
+  },
+  {
+    "tag5": "sqj",
+    "name": "Albanian languages",
+    "hierarchy": [
+      "ine",
+      "sqj"
+    ]
+  },
+  {
+    "tag5": "ssa",
+    "name": "Nilo-Saharan languages",
+    "hierarchy": [
+      "ssa"
+    ]
+  },
+  {
+    "tag5": "syd",
+    "name": "Samoyedic languages",
+    "hierarchy": [
+      "urj",
+      "syd"
+    ]
+  },
+  {
+    "tag5": "tai",
+    "name": "Tai languages",
+    "hierarchy": [
+      "tai"
+    ]
+  },
+  {
+    "tag5": "tbq",
+    "name": "Tibeto-Burman languages",
+    "hierarchy": [
+      "sit",
+      "tbq"
+    ]
+  },
+  {
+    "tag5": "trk",
+    "name": "Turkic languages",
+    "hierarchy": [
+      "tut",
+      "trk"
+    ]
+  },
+  {
+    "tag5": "tup",
+    "name": "Tupi languages",
+    "hierarchy": [
+      "sai",
+      "tup"
+    ]
+  },
+  {
+    "tag5": "tut",
+    "name": "Altaic languages",
+    "hierarchy": [
+      "tut"
+    ]
+  },
+  {
+    "tag5": "tuw",
+    "name": "Tungus languages",
+    "hierarchy": [
+      "tut",
+      "tuw"
+    ]
+  },
+  {
+    "tag5": "urj",
+    "name": "Uralic languages",
+    "hierarchy": [
+      "urj"
+    ]
+  },
+  {
+    "tag5": "wak",
+    "name": "Wakashan languages",
+    "hierarchy": [
+      "nai",
+      "wak"
+    ]
+  },
+  {
+    "tag5": "wen",
+    "name": "Sorbian languages",
+    "hierarchy": [
+      "ine",
+      "sla",
+      "zlw",
+      "wen"
+    ]
+  },
+  {
+    "tag5": "xgn",
+    "name": "Mongolian languages",
+    "hierarchy": [
+      "tut",
+      "xgn"
+    ]
+  },
+  {
+    "tag5": "xnd",
+    "name": "Na-Dene languages",
+    "hierarchy": [
+      "nai",
+      "xnd"
+    ]
+  },
+  {
+    "tag5": "ypk",
+    "name": "Yupik languages",
+    "hierarchy": [
+      "esx",
+      "ypk"
+    ]
+  },
+  {
+    "tag5": "zhx",
+    "name": "Chinese (family)",
+    "hierarchy": [
+      "sit",
+      "zhx"
+    ]
+  },
+  {
+    "tag5": "zle",
+    "name": "East Slavic languages",
+    "hierarchy": [
+      "ine",
+      "sla",
+      "zle"
+    ]
+  },
+  {
+    "tag5": "zls",
+    "name": "South Slavic languages",
+    "hierarchy": [
+      "ine",
+      "sla",
+      "zls"
+    ]
+  },
+  {
+    "tag5": "zlw",
+    "name": "West Slavic languages",
+    "hierarchy": [
+      "ine",
+      "sla",
+      "zlw"
+    ]
+  },
+  {
+    "tag5": "znd",
+    "name": "Zande languages",
+    "hierarchy": [
+      "nic",
+      "alv",
+      "znd"
+    ]
+  }
+]
