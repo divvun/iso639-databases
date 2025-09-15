@@ -3335,7 +3335,7 @@ krh		Kurama		iso639-3
 kri		Krio	Krio	cldr, ethnologue
 krj		Kinaray-a		cldr
 krk		Kerek		iso639-3
-krl		Karelian		cldr
+krl		Viena Karelian		cldr, github
 krn		Sapo		iso639-3
 krp		Korop		iso639-3
 krr		Krung		iso639-3
@@ -5052,7 +5052,7 @@ old		Mochi		iso639-3
 ole		Olekha		iso639-3
 olk		Olkol		iso639-3
 olm		Oloma		iso639-3
-olo		Livvi	Livvin kieli	iso639-3, ethnologue
+olo		Livvi Karelian	Livvin kieli	iso639-3, ethnologue, github
 olr		Olrat	Olrat	iso639-3, ethnologue
 olt		Old Lithuanian		iso639-3
 olu		Kuvale	Kuvale, Olukuvale	iso639-3, ethnologue
