@@ -1091,7 +1091,7 @@ bxw		Bankagooma		iso639-3
 bxv		Berakou		iso639-3
 bxu		China Buriat		iso639-3
 bxs		Busam		iso639-3
-bxr		Russia Buriat		iso639-3
+bxr		Russia Buriat	Буряад хэлэн	iso639-3
 bxq		Beele		iso639-3
 bxp		Bebil		iso639-3
 bxo		Barikanchi		iso639-3
@@ -2018,7 +2018,7 @@ etx		Eten	Iten	iso639-3, ethnologue
 etz		Semimi		iso639-3
 eve		Even		iso639-3
 evh		Uvbie		iso639-3
-evn		Evenki		iso639-3
+evn		Evenki	Эвэды̄ турэ̄н	iso639-3
 ewo		Ewondo	Ewondo	cldr
 ext		Extremaduran	Barranquênhu	cldr, ethnologue
 eya		Eyak		iso639-3
@@ -2776,7 +2776,7 @@ ixl		Ixil		iso639-3
 iya		Iyayu		iso639-3
 iyo		Mesaka	Ugare	iso639-3, ethnologue
 iyx		Yaka (Congo)		iso639-3
-izh		Ingrian		cldr
+izh		Ingrian	Ižorin kēli	cldr
 izr		Izere	Izere	iso639-3, ethnologue
 izz		Izii	Izii	iso639-3, ethnologue
 jaa		Jamamadí		iso639-3
@@ -2957,7 +2957,7 @@ kbw		Kaiep		iso639-3
 kbx		Ap Ma		iso639-3
 kby		Manga Kanuri		iso639-3
 kbz		Duhwa		iso639-3
-kca		Khanty		iso639-3
+kca		Khanty	Ханты ясаӈ	iso639-3
 kcb		Kawacha		iso639-3
 kcc		Lubila		iso639-3
 kcd		Ngkâlmpw Kanum		iso639-3
@@ -3261,7 +3261,7 @@ koe		Kacipo-Balesi	Kacipo	iso639-3, ethnologue
 kof		Kubi		iso639-3
 kog		Cogui		iso639-3
 koh		Koyo		iso639-3
-koi		Komi-Permyak		cldr
+koi		Komi-Permyak	Коми-пермяцкӧй кыв	cldr
 kok		Konkani	कोंकणी	cldr
 kol		Kol (Papua New Guinea)		iso639-3
 koo		Konzo		iso639-3
@@ -3335,7 +3335,7 @@ krh		Kurama		iso639-3
 kri		Krio	Krio	cldr, ethnologue
 krj		Kinaray-a		cldr
 krk		Kerek		iso639-3
-krl		Viena Karelian		cldr, github
+krl		Viena Karelian	Karjala	cldr, github
 krn		Sapo		iso639-3
 krp		Korop		iso639-3
 krr		Krung		iso639-3
@@ -4065,7 +4065,7 @@ mhn		Mócheno		iso639-3
 mho		Mashi (Zambia)		iso639-3
 mhp		Balinese Malay		iso639-3
 mhq		Mandan		iso639-3
-mhr		Eastern Mari		iso639-3
+mhr		Eastern Mari	Олык марий йылме	iso639-3
 mhs		Buru (Indonesia)	Buru	iso639-3, ethnologue
 mht		Mandahuaca		iso639-3
 mhu		Digaro-Mishmi		iso639-3
@@ -4220,7 +4220,7 @@ mnz		Moni		iso639-3
 moa		Mwan		iso639-3
 moc		Mocoví		iso639-3
 mod		Mobilian		iso639-3
-moe		Montagnais		iso639-3
+moe		Montagnais	Innu	iso639-3
 mog		Mongondow		iso639-3
 moh		Mohawk	Kanienʼkéha	cldr
 moi		Mboi		iso639-3
@@ -4297,7 +4297,7 @@ mre		Martha's Vineyard Sign Language		iso639-3
 mrf		Elseng		iso639-3
 mrg		Mising		iso639-3
 mrh		Mara Chin	Mara	iso639-3, ethnologue
-mrj		Western Mari		cldr
+mrj		Western Mari	Кырык мары йӹлмӹ	cldr
 mrk		Hmwaveke		iso639-3
 mrl		Mortlockese		iso639-3
 mrm		Merlav		iso639-3
@@ -4477,7 +4477,7 @@ myp		Pirahã		iso639-3
 myr		Muniche		iso639-3
 mys		Mesmes		iso639-3
 myu		Mundurukú		iso639-3
-myv		Erzya		cldr
+myv		Erzya	Эрзянь кель	cldr
 myw		Muyuw		iso639-3
 myx		Masaaba		iso639-3
 myy		Macuna		iso639-3
@@ -5624,7 +5624,7 @@ rmc		Carpathian Romani	Romanes	iso639-3, ethnologue
 rmd		Traveller Danish		iso639-3
 rme		Angloromani	Romanes, Romani	iso639-3, ethnologue
 rmf		Kalo Finnish Romani	Kaalengo tšibbaha	iso639-3, ethnologue
-rmg		Traveller Norwegian		iso639-3
+rmg		Traveller Norwegian	Romani rakkripa	iso639-3
 rmh		Murkim		iso639-3
 rmi		Lomavren		iso639-3
 rmk		Romkun		iso639-3
@@ -5797,7 +5797,7 @@ seh		Sena	Sena	cldr
 sei		Seri	Cmiique Iitom	cldr, ethnologue
 sej		Sene		iso639-3
 sek		Sekani	Tse’khene	iso639-3, ethnologue
-sel		Selkup		cldr
+sel		Selkup	Шӧльӄумыт әты	cldr
 sen		Nanerigé Sénoufo		iso639-3
 seo		Suarmin		iso639-3
 sep		Sìcìté Sénoufo	Sìcijuungé	iso639-3, ethnologue
@@ -6690,7 +6690,7 @@ tyr		Tai Daeng		iso639-3
 tys		Tày Sa Pa		iso639-3
 tyt		Tày Tac		iso639-3
 tyu		Kua		iso639-3
-tyv		Tuvinian	Тыва‎ (tyva), тыва дыл‎ (tyva dyl)	cldr, ethnologue
+tyv		Tuvinian	Тыва дыл‎ (tyva dyl)	cldr, ethnologue
 tyx		Teke-Tyee		iso639-3
 tyz		Tày		iso639-3
 tza		Tanzanian Sign Language		iso639-3
@@ -6716,7 +6716,7 @@ udg		Muduga		iso639-3
 udi		Udi		iso639-3
 udj		Ujir		iso639-3
 udl		Wuzlam		iso639-3
-udm		Udmurt		cldr
+udm		Udmurt	Удмурт кыл	cldr
 udu		Uduk	Twampa	iso639-3, ethnologue
 ues		Kioko		iso639-3
 ufi		Ufim		iso639-3
@@ -6848,7 +6848,7 @@ ved		Veddah		iso639-3
 vel		Veluws		iso639-3
 vem		Vemgo-Mabas		iso639-3
 veo		Ventureño		iso639-3
-vep		Veps		cldr
+vep		Veps	Vepsä	cldr
 ver		Mom Jango		iso639-3
 vgr		Vaghri		iso639-3
 vgt		Vlaamse Gebarentaal		iso639-3
@@ -6900,7 +6900,7 @@ vnk		Vano		iso639-3
 vnm		Vinmavis		iso639-3
 vnp		Vunapu		iso639-3
 vor		Voro		iso639-3
-vot		Votic		cldr
+vot		Votic	vad̕d̕a tšeeli	cldr
 vra		Vera'a		iso639-3
 vro		Võro	Võro kiil	cldr, ethnologue
 vrs		Varisi		iso639-3
@@ -7144,7 +7144,7 @@ xag		Aghwan		iso639-3
 xai		Kaimbé		iso639-3
 xaj		Ararandewára		iso639-3
 xak		Máku		iso639-3
-xal		Kalmyk	Хальмг‎ (Xaľmg), хальмг келн‎ (Xaľmg keln)	cldr, ethnologue
+xal		Kalmyk	Хальмг келн‎ (Xaľmg keln)	cldr, ethnologue
 xam		/Xam		iso639-3
 xan		Xamtanga		iso639-3
 xao		Khao		iso639-3
@@ -7604,7 +7604,7 @@ ypz		Phuza		iso639-3
 yra		Yerakai		iso639-3
 yrb		Yareba		iso639-3
 yre		Yaouré		iso639-3
-yrk		Nenets		iso639-3
+yrk		Nenets	Ненэця' вада	iso639-3
 yrl		Nheengatu		cldr
 yrm		Yirrk-Mel		iso639-3
 yrn		Yerong		iso639-3
