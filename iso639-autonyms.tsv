@@ -2055,7 +2055,7 @@ fie		Fyer		iso639-3
 fil		Filipino	Filipino	cldr
 fip		Fipa	Ichifipa	iso639-3, ethnologue
 fir		Firan		iso639-3
-fit		Meänkieli (Tornedalen Finnish)		cldr
+fit		Meänkieli (Tornedalen Finnish)	meänkieli	cldr, github
 fiw		Fiwaga		iso639-3
 fkk		Kirya-Konzəl	Karya, Konzal	iso639-3, ethnologue
 fkv		Kven Finnish		iso639-3
