@@ -20,7 +20,7 @@ amh	am	Ethi		cldr
 amo		Latn		cldr
 anp		Deva		cldr
 aoz		Latn		cldr
-apu		Latn		giellatekno
+apu		Latn		giellalt
 ara	ar	Arab		cldr
 arg	an	Latn		cldr
 arn		Latn		cldr
@@ -72,7 +72,7 @@ bjj		Deva		cldr
 bjn		Latn		cldr
 bkm		Latn		cldr
 bku		Latn		cldr
-bla		Cans		giellatekno
+bla		Cans		giellalt
 blt		Tavt		cldr
 bmq		Latn		cldr
 bod	bo	Tibt		cldr
@@ -93,7 +93,7 @@ bug		Latn		cldr
 bul	bg	Cyrl		cldr
 bum		Latn		cldr
 bvb		Latn		cldr
-bxr		Cyrl		giellatekno
+bxr		Cyrl		giellalt
 byn		Ethi		cldr
 byv		Latn		cldr
 bze		Latn		cldr
@@ -117,7 +117,7 @@ chr		Cher		cldr
 chv	cv	Cyrl		cldr
 chy		Latn		cldr
 cic		Latn		cldr
-ciw		Latn		giellatekno
+ciw		Latn		giellalt
 cja		Arab		cldr
 cjm		Cham		cldr
 cjs		Cyrl		cldr
@@ -128,8 +128,8 @@ cos	co	Latn		cldr
 cps		Latn		cldr
 cre	cr	Latn		cldr
 crh		Cyrl		cldr
-crj		Latn		giellatekno
-crk		Latn		giellatekno
+crj		Latn		giellalt
+crk		Latn		giellalt
 crl		Latn		cldr
 crm		Cans		cldr
 crs		Latn		cldr
@@ -167,7 +167,7 @@ eky		Kali		cldr
 ell	el	Grek		cldr
 eng	en	Latn		cldr
 epo	eo	Latn		cldr
-ess		Latn		giellatekno
+ess		Latn		giellalt
 est	et	Latn		cldr
 esu		Latn		cldr
 eus	eu	Latn		cldr
@@ -184,7 +184,7 @@ fij	fj	Latn		cldr
 fil		Latn		cldr
 fin	fi	Latn		cldr
 fit		Latn		cldr
-fkv		Latn		giellatekno
+fkv		Latn		giellalt
 fon		Latn		cldr
 fra	fr	Latn		cldr
 frc		Latn		cldr
@@ -236,7 +236,7 @@ hat	ht	Latn		cldr
 hau	ha	Latn		cldr
 haw		Latn		cldr
 haz		Arab		cldr
-hdn		Latn		giellatekno
+hdn		Latn		giellalt
 heb	he	Hebr		cldr
 her	hz	Latn		cldr
 hif		Deva		cldr
@@ -300,7 +300,7 @@ kck		Latn		cldr
 kde		Latn		cldr
 kdt		Thai		cldr
 kea		Latn		cldr
-kek		Latn		giellatekno
+kek		Latn		giellalt
 kfo		Latn		cldr
 kfr		Deva		cldr
 kfy		Deva		cldr
@@ -308,7 +308,7 @@ kge		Latn		cldr
 kgp		Latn		cldr
 kha		Latn		cldr
 khb		Talu		cldr
-khk		Cyrl		giellatekno
+khk		Cyrl		giellalt
 khm	km	Khmr		cldr
 khn		Deva		cldr
 khq		Latn		cldr
@@ -316,7 +316,7 @@ kht		Mymr		cldr
 khw		Arab		cldr
 kik	ki	Latn		cldr
 kin	rw	Latn		cldr
-kio		Latn		giellatekno
+kio		Latn		giellalt
 kir	ky	Cyrl		cldr
 kiu		Latn		cldr
 kjg		Laoo		cldr
@@ -331,7 +331,7 @@ kon	kg	Latn		cldr
 kor	ko	Kore		cldr
 kos		Latn		cldr
 kpe		Latn		cldr
-kpv		Cyrl		giellatekno
+kpv		Cyrl		giellalt
 kpy		Cyrl		cldr
 krc		Cyrl		cldr
 kri		Latn		cldr
@@ -355,7 +355,7 @@ lah		Arab		cldr
 laj		Latn		cldr
 lam		Latn		cldr
 lao	lo	Laoo		cldr
-lat	la	Latn		giellatekno
+lat	la	Latn		giellalt
 lav	lv	Latn		cldr
 lbe		Cyrl		cldr
 lbw		Latn		cldr
@@ -367,7 +367,7 @@ lim	li	Latn		cldr
 lin	ln	Latn		cldr
 lis		Lisu		cldr
 lit	lt	Latn		cldr
-liv		Latn		giellatekno
+liv		Latn		giellalt
 ljp		Latn		cldr
 lki		Arab		cldr
 lkt		Latn		cldr
@@ -384,7 +384,7 @@ lug	lg	Latn		cldr
 lun		Latn		cldr
 luo		Latn		cldr
 lus		Beng		cldr
-lut		Latn		giellatekno
+lut		Latn		giellalt
 luy		Latn		cldr
 luz		Arab		cldr
 lwl		Thai		cldr
@@ -411,7 +411,7 @@ mgh		Latn		cldr
 mgo		Latn		cldr
 mgp		Deva		cldr
 mgy		Latn		cldr
-mhr		Cyrl		giellatekno
+mhr		Cyrl		giellalt
 mic		Latn		cldr
 min		Latn		cldr
 mkd	mk	Cyrl		cldr
@@ -452,7 +452,7 @@ nbl	nr	Latn		cldr
 nch		Latn		cldr
 ndc		Latn		cldr
 nde	nd	Latn		cldr
-ndl		Latn		giellatekno
+ndl		Latn		giellalt
 ndo	ng	Latn		cldr
 nds		Latn		cldr
 nep	ne	Deva		cldr
@@ -462,7 +462,7 @@ nhe		Latn		cldr
 nhw		Latn		cldr
 nia		Latn		cldr
 nij		Latn		cldr
-nio		Cyrl		giellatekno
+nio		Cyrl		giellalt
 niu		Latn		cldr
 njo		Latn		cldr
 nld	nl	Latn		cldr
@@ -473,8 +473,8 @@ nob	nb	Latn		cldr
 nod		Lana		cldr
 noe		Deva		cldr
 nog		Cyrl		cldr
-non		Runr		giellatekno
-nor	no	Latn		giellatekno
+non		Runr		giellalt
+nor	no	Latn		giellalt
 nqo		Nkoo		cldr
 nsk		Cans		cldr
 nso		Latn		cldr
@@ -486,8 +486,8 @@ nyn		Latn		cldr
 nyo		Latn		cldr
 nzi		Latn		cldr
 oci	oc	Latn		cldr
-oji	oj	Latn		giellatekno
-olo		Latn		giellatekno
+oji	oj	Latn		giellalt
+olo		Latn		giellalt
 ori	or	Orya		cldr
 orm	om	Latn		cldr
 osa		Osge		cldr
@@ -507,13 +507,13 @@ pol	pl	Latn		cldr
 pon		Latn		cldr
 por	pt	Latn		cldr
 prd		Arab		cldr
-prs		Arab		giellatekno
+prs		Arab		giellalt
 pus	ps	Arab		cldr
 puu		Latn		cldr
 quc		Latn		cldr
 que	qu	Latn		cldr
 qug		Latn		cldr
-quz		Latn		giellatekno
+quz		Latn		giellalt
 raj		Deva		cldr
 rap		Latn		cldr
 rar		Latn		cldr
@@ -529,7 +529,7 @@ rmn		Latn		cldr
 rmo		Latn		cldr
 rmt		Arab		cldr
 rmu		Latn		cldr
-rmy		Latn		giellatekno
+rmy		Latn		giellalt
 rng		Latn		cldr
 rob		Latn		cldr
 rof		Latn		cldr
@@ -548,7 +548,7 @@ sad		Latn		cldr
 saf		Latn		cldr
 sag	sg	Latn		cldr
 sah		Cyrl		cldr
-san	sa	Deva		giellatekno
+san	sa	Deva		giellalt
 saq		Latn		cldr
 sas		Latn		cldr
 sat		Olck		cldr
@@ -564,16 +564,16 @@ see		Latn		cldr
 sef		Latn		cldr
 seh		Latn		cldr
 sei		Latn		cldr
-sel		Cyrl		giellatekno
+sel		Cyrl		giellalt
 ses		Latn		cldr
 sgs		Latn		cldr
 shi		Tfng		cldr
 shn		Mymr		cldr
 sid		Latn		cldr
 sin	si	Sinh		cldr
-sjd		Cyrl		giellatekno
-sje		Latn		giellatekno
-sjt		Cyrl		giellatekno
+sjd		Cyrl		giellalt
+sje		Latn		giellalt
+sjt		Cyrl		giellalt
 skr		Arab		cldr
 sli		Latn		cldr
 slk	sk	Latn		cldr
@@ -597,11 +597,11 @@ srb		Latn		cldr
 srd	sc	Latn		cldr
 srn		Latn		cldr
 srr		Latn		cldr
-srs		Latn		giellatekno
+srs		Latn		giellalt
 srx		Deva		cldr
 ssw	ss	Latn		cldr
 ssy		Latn		cldr
-sto		Latn		giellatekno
+sto		Latn		giellalt
 stq		Latn		cldr
 suk		Latn		cldr
 sun	su	Latn		cldr
@@ -614,14 +614,14 @@ swv		Deva		cldr
 sxn		Latn		cldr
 syi		Latn		cldr
 syl		Beng		cldr
-syr		Syrc		giellatekno
+syr		Syrc		giellalt
 szl		Latn		cldr
 tab		Cyrl		cldr
 tah	ty	Latn		cldr
 taj		Deva		cldr
 tam	ta	Taml		cldr
 tat	tt	Cyrl		cldr
-tau		Latn		giellatekno
+tau		Latn		giellalt
 tbw		Latn		cldr
 tcy		Knda		cldr
 tdd		Tale		cldr
@@ -633,7 +633,7 @@ teo		Latn		cldr
 ter		Latn		cldr
 tet		Latn		cldr
 tgk	tg	Cyrl		cldr
-tgl	tl	Latn		giellatekno
+tgl	tl	Latn		giellalt
 tha	th	Thai		cldr
 thl		Deva		cldr
 thq		Deva		cldr
@@ -643,8 +643,8 @@ tir	ti	Ethi		cldr
 tiv		Latn		cldr
 tkl		Latn		cldr
 tkt		Deva		cldr
-tku		Latn		giellatekno
-tlh		Piqd		giellatekno
+tku		Latn		giellalt
+tlh		Piqd		giellalt
 tli		Latn		cldr
 tly		Arab		cldr
 tmh		Latn		cldr
@@ -665,7 +665,7 @@ tts		Thai		cldr
 tuk	tk	Latn		cldr
 tum		Latn		cldr
 tur	tr	Latn		cldr
-tuv		Latn		giellatekno
+tuv		Latn		giellalt
 tvl		Latn		cldr
 twq		Latn		cldr
 tyv		Cyrl		cldr
@@ -687,7 +687,7 @@ vie	vi	Latn		cldr
 vls		Latn		cldr
 vmf		Latn		cldr
 vmw		Latn		cldr
-vot		Latn		giellatekno
+vot		Latn		giellalt
 vro		Latn		cldr
 vun		Latn		cldr
 wae		Latn		cldr
@@ -710,7 +710,7 @@ xmf		Geor		cldr
 xnr		Deva		cldr
 xog		Latn		cldr
 xsr		Deva		cldr
-xwo		Mong		giellatekno
+xwo		Mong		giellalt
 yao		Latn		cldr
 yap		Latn		cldr
 yav		Latn		cldr

@@ -39,7 +39,7 @@ The `script` field is the most likely valid ISO 15924 script given no more conte
 Here are the currently utilised sources by this table:
 
 - `cldr` - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
-- `giellatekno` - [Giellatekno](https://github.com/giellalt)
+- `giellalt` - [GiellaLT](https://github.com/giellalt)
 - `github` - [This repository](https://github.com/bbqsrc/iso639-databases)
 
 ## ISO 639 Microsoft Office LCIDs - iso639-lcids.tsv
