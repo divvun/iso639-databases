@@ -1551,7 +1551,7 @@ dgi		Northern Dagara		iso639-3
 dgk		Dagba		iso639-3
 dgl		Andaandi		iso639-3, ethnologue
 dgn		Dagoman		iso639-3
-dgo		Dogri (individual language)		iso639-3
+dgo		Dogri		iso639-3
 dgr		Dogrib	Tlicho	cldr, ethnologue
 dgs		Dogoso		iso639-3
 dgt		Ndra'ngith		iso639-3
@@ -1587,7 +1587,7 @@ dim		Dime		iso639-3
 din		Dinka		cldr
 dio		Dibo		iso639-3
 dip		Northeastern Dinka		iso639-3
-diq		Dimli (individual language)		iso639-3
+diq		Dimli		iso639-3
 dir		Dirim		iso639-3
 dis		Dimasa	Grau Dima, Magrau	iso639-3, ethnologue
 dit		Dirari		iso639-3
@@ -3143,7 +3143,7 @@ knj		Western Kanjobal	K'anjob'al	iso639-3, ethnologue
 knk		Kuranko		iso639-3
 knl		Keninjal		iso639-3
 knm		Kanamarí		iso639-3
-knn		Konkani (individual language)	कोंकणी (Konknni)	iso639-3, ethnologue
+knn		Konkani	कोंकणी (Konknni)	iso639-3, ethnologue
 kno		Kono (Sierra Leone)		iso639-3
 knp		Kwanja		iso639-3
 knq		Kintaq		iso639-3
@@ -4767,7 +4767,7 @@ npa		Nar Phu		iso639-3
 npb		Nupbikha		iso639-3
 npg		Ponyo-Gongwang Naga	Gongwang Naga, Ponyo Naga	iso639-3, ethnologue
 nph		Phom Naga		iso639-3
-npi		Nepali (individual language)	नेपाली (Nepālī)	iso639-3, ethnologue
+npi		Nepali	नेपाली (Nepālī)	iso639-3, ethnologue
 npl		Southeastern Puebla Nahuatl		iso639-3
 npn		Mondropolon		iso639-3
 npo		Pochuri Naga		iso639-3
@@ -6111,7 +6111,7 @@ swc		Congo Swahili	Kiswahili	iso639-3, ethnologue
 swe	sv	Swedish	Svenska	cldr
 swf		Sere		iso639-3
 swg		Swabian		iso639-3
-swh		Swahili (individual language)	Kiswahili, Swahili	iso639-3, ethnologue
+swh		Swahili	Kiswahili	iso639-3, ethnologue
 swi		Sui		iso639-3
 swj		Sira		iso639-3
 swk		Malawi Sena		iso639-3
@@ -6755,7 +6755,7 @@ umr		Umbugarla		iso639-3
 ums		Pendau		iso639-3
 umu		Munsee		iso639-3
 una		North Watut		iso639-3
-und		Undefined		github
+und		Undetermined		iso639-3
 une		Uneme		iso639-3
 ung		Ngarinyin		iso639-3
 unk		Enawené-Nawé		iso639-3
@@ -7741,7 +7741,7 @@ zku		Kaurna		iso639-3
 zkv		Krevinian		iso639-3
 zkz		Khazar		iso639-3
 zlj		Liujiang Zhuang		iso639-3
-zlm		Malay (individual language)	Bahasa Melayu, ملايو (Melayu)	iso639-3, ethnologue
+zlm		Malay	Bahasa Melayu, ملايو (Melayu)	iso639-3, ethnologue
 zln		Lianshan Zhuang		iso639-3
 zlq		Liuqian Zhuang		iso639-3
 zma		Manda (Australia)		iso639-3
@@ -7771,7 +7771,7 @@ zmx		Bomitaba		iso639-3
 zmy		Mariyedi		iso639-3
 zmz		Mbandja		iso639-3
 zna		Zan Gula	More	iso639-3, ethnologue
-zne		Zande (individual language)		iso639-3
+zne		Zande		iso639-3
 zng		Mang		iso639-3
 znk		Manangkari		iso639-3
 zns		Mangas		iso639-3
