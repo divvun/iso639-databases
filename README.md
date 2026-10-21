@@ -10,11 +10,11 @@ While the data has initially been generated from standard sources, contributions
 
 ### Interpretation
 
-`tag3` and `tag1` columns represent the ISO 639-3 (or -5) and -1 tags respectively. The `name` field is the "most recognisable" form of the language name, typically in English, to be used as a fallback where an autonym is not available.
+`tag3` and `tag1` columns represent the ISO 639-3 (or -5) and -1 tags respectively. The `name` field is what the speakers call their language in English. This may differ from the ISO 639-3 reference name.
 
-The `autonym` field is the name of the language *in* that language. If this field is blank, it means that there is no confirmed autonym for this language in this database and you may use the `name` field as a fallback.
+The `autonym` field is what the speakers call their language *in* that language. Where the autonym is the same as the `name`, the `autonym` field is left blank.
 
-An `autonym` being blank does not necessarily indicate that the `name` field represents the autonym. In the case where they are the same, they should be listed in both columns.
+A blank `autonym` therefore means either that it is the same as the `name`, or that there is no confirmed autonym for this language in this database. In both cases, use the `name` field.
 
 ### Sources
 
