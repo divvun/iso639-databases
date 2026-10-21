@@ -39,6 +39,7 @@ ben	bn		IN	1093
 bin				1126
 bin			NG	1126
 bod	bo			1105
+bod	bo		BT	2129
 bod	bo		CN	1105
 bos	bs			5146
 bos	bs	Cyrl		8218
@@ -79,6 +80,7 @@ ell	el			1032
 ell	el		GR	1032
 eng	en			1033
 eng	en		029	9225
+eng	en		AE	19465
 eng	en		AU	3081
 eng	en		BZ	10249
 eng	en		CA	4105
@@ -109,6 +111,7 @@ fil			PH	1124
 fin	fi			1035
 fin	fi		FI	1035
 fra	fr			1036
+fra	fr		015	58380
 fra	fr		029	7180
 fra	fr		BE	2060
 fra	fr		CA	3084
@@ -129,6 +132,7 @@ fry	fy		NL	1122
 ful	ff			2151
 ful	ff		NG	1127
 ful	ff	Latn		2151
+ful	ff	Latn	NG	1127
 ful	ff	Latn	SN	2151
 gla	gd			1169
 gla	gd		GB	1169
@@ -138,6 +142,7 @@ glg	gl			1110
 glg	gl		ES	1110
 grn	gn			1140
 grn	gn		PY	1140
+gsw				1156
 gsw			FR	1156
 guj	gu			1095
 guj	gu		IN	1095
@@ -183,12 +188,15 @@ kal	kl			1135
 kal	kl		GL	1135
 kan	kn			1099
 kan	kn		IN	1099
+kas	ks			1120
+kas	ks	Arab		1120
+kas	ks	Arab	IN	1120
 kas	ks	Deva		2144
 kas	ks	Deva	IN	2144
 kat	ka			1079
 kat	ka		GE	1079
 kau	kr			1137
-kau	kr		NG	1137
+kau	kr	Latn	NG	1137
 kaz	kk			1087
 kaz	kk		KZ	1087
 khm	km			1107
@@ -207,7 +215,7 @@ kur	ku	Arab	IQ	1170
 lao	lo			1108
 lao	lo		LA	1108
 lat	la			1142
-lat	la		001	1142
+lat	la		VA	1142
 lav	lv			1062
 lav	lv		LV	1062
 lit	lt			1063
@@ -349,10 +357,12 @@ sqi	sq		AL	1052
 srp	sr			9242
 srp	sr	Cyrl		10266
 srp	sr	Cyrl	BA	7194
+srp	sr	Cyrl	CS	3098
 srp	sr	Cyrl	ME	12314
 srp	sr	Cyrl	RS	10266
 srp	sr	Latn		9242
 srp	sr	Latn	BA	6170
+srp	sr	Latn	CS	2074
 srp	sr	Latn	ME	11290
 srp	sr	Latn	RS	9242
 swa	sw			1089
@@ -391,8 +401,6 @@ tzm		Arab		1119
 tzm		Arab	MA	1119
 tzm		Latn		2143
 tzm		Latn	DZ	2143
-tzm		Tfng		4191
-tzm		Tfng	MA	4191
 uig	ug			1152
 uig	ug		CN	1152
 ukr	uk			1058

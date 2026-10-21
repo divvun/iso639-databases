@@ -50,7 +50,7 @@ Here are the currently utilised sources by this table:
 
 ## ISO 639 Microsoft Office LCIDs - iso639-lcids.tsv
 
-The LCIDs used in this table are defined by [MS-OE376: 2.1.1906 Part 4 Section 7.6.2.39, LCID (Locale ID)](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-oe376/6c085406-a698-4e12-9d4d-c3b0ee3dbc4a).
+The LCIDs used in this table are defined by [MS-LCID: Windows Language Code Identifier (LCID) Reference](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c), with Office-only LCIDs from [MS-OE376: 2.1.1907 Part 4 Section 7.6.2.39, LCID (Locale ID)](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-oe376/6c085406-a698-4e12-9d4d-c3b0ee3dbc4a). Where the two disagree, MS-LCID is used. Languages that Windows only identifies with the unassigned LCID `0x1000` are not included.
 
 ### Interpretation
 
