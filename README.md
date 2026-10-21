@@ -10,11 +10,17 @@ While the data has initially been generated from standard sources, contributions
 
 ### Interpretation
 
-`tag3` and `tag1` columns represent the ISO 639-3 (or -5) and -1 tags respectively. The `name` field is what the speakers call their language in English. This may differ from the ISO 639-3 reference name.
+Each row is a BCP 47 language tag split into its parts. `tag3` and `tag1` columns represent the ISO 639-3 (or -5) and -1 tags respectively, `script` is an ISO 15924 script code, and `region` is an ISO 3166-1 alpha-2 or UN M.49 region code. To build the tag, use `tag1` if present, otherwise `tag3`, then append `script` and `region` if present, for example `se`, `se-FI` or `crk-Cans`.
 
-The `autonym` field is what the speakers call their language *in* that language. Where the autonym is the same as the `name`, the `autonym` field is left blank.
+A blank `script` or `region` means the row applies regardless of script or region. Look up the most specific tag first, then fall back by dropping the `region`, then the `script`.
 
-A blank `autonym` therefore means either that it is the same as the `name`, or that there is no confirmed autonym for this language in this database. In both cases, use the `name` field.
+More tag columns may be added to the end in future, so read columns by their header name rather than by position.
+
+The `common_name` field is what the speakers call their language in English. This may differ from the ISO 639-3 reference name.
+
+The `autonym` field is what the speakers call their language *in* that language. Where the autonym is the same as the `common_name`, the `autonym` field is left blank.
+
+A blank `autonym` therefore means either that it is the same as the `common_name`, or that there is no confirmed autonym for this language in this database. In both cases, use the `common_name` field.
 
 ### Sources
 
