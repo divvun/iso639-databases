@@ -31,18 +31,21 @@ Abaga		iso639-3	abg
 Tajiki Arabic		iso639-3	abh			
 Abidji		iso639-3	abi			
 Aka-Bea		iso639-3	abj			
-Abkhazian	Аҧсуа бызшәа (Aṗsua byzšwa), аҧсшәа (Aṗsšwa)	cldr, ethnologue	abk	ab		
+Abkhazian	Аҧсуа бызшәа, аҧсшәа	cldr, ethnologue	abk	ab		
+Abkhazian	Aṗsua byzšwa, Aṗsšwa	cldr, ethnologue	abk	ab	Latn	
 Lampung Nyo		iso639-3	abl			
 Abanyom		iso639-3	abm			
 Abua	Abuan	iso639-3, ethnologue	abn			
 Abon		iso639-3	abo			
 Abellen Ayta		iso639-3	abp			
-Abaza	Абаза (Abaza), абаза бызшва (Abaza byzšva)	iso639-3, ethnologue	abq			
+Abaza	Абаза, абаза бызшва	iso639-3, ethnologue	abq			
+Abaza	Abaza byzšva	iso639-3, ethnologue	abq		Latn	
 Abron	Brong	iso639-3, ethnologue	abr			
 Ambonese Malay	Bahasa Ambon, Bahasa Melaju Ambon	iso639-3, ethnologue	abs			
 Ambulas		iso639-3, ethnologue	abt			
 Abure		iso639-3	abu			
-Baharna Arabic	العربية البحرانية (Arab Bahraini)	iso639-3, ethnologue	abv			
+Baharna Arabic	العربية البحرانية	iso639-3, ethnologue	abv			
+Baharna Arabic	Arab Bahraini	iso639-3, ethnologue	abv		Latn	
 Pal		iso639-3	abw			
 Inabaknon		iso639-3, ethnologue	abx			
 Aneme Wake		iso639-3	aby			
@@ -56,7 +59,8 @@ Acoli		cldr	ach
 Aka-Cari		iso639-3	aci			
 Aka-Kora		iso639-3	ack			
 Akar-Bale		iso639-3	acl			
-Mesopotamian Arabic	عراقي (ʕirāgi)	iso639-3, ethnologue	acm			
+Mesopotamian Arabic	عراقي	iso639-3, ethnologue	acm			
+Mesopotamian Arabic	ʕirāgi	iso639-3, ethnologue	acm		Latn	
 Achang	Ngochang	iso639-3, ethnologue	acn			
 Eastern Acipa		iso639-3	acp			
 Ta'izzi-Adeni Arabic		iso639-3	acq			
@@ -88,10 +92,12 @@ Adnyamathanha		iso639-3	adt
 Aduge		iso639-3	adu			
 Amundava		iso639-3	adw			
 Amdo Tibetan		iso639-3	adx			
-Adyghe	Адыгабзэ (Adəgăbză)	cldr, ethnologue	ady			
+Adyghe	Адыгабзэ	cldr, ethnologue	ady			
+Adyghe	Adəgăbză	cldr, ethnologue	ady		Latn	
 Adzera		iso639-3, ethnologue	adz			
 Areba		iso639-3	aea			
-Tunisian Arabic	Derja, تونسي (Tounsi)	cldr, ethnologue	aeb			
+Tunisian Arabic	تونسي	cldr, ethnologue	aeb			
+Tunisian Arabic	Derja, Tounsi	cldr, ethnologue	aeb		Latn	
 Saidi Arabic		iso639-3	aec			
 Argentine Sign Language		iso639-3	aed			
 Northeast Pashai		iso639-3	aee			
@@ -106,7 +112,8 @@ Akeu		iso639-3	aeu
 Ambakich		iso639-3	aew			
 Amele		iso639-3, ethnologue	aey			
 Aeka		iso639-3, ethnologue	aez			
-Gulf Arabic	خليجي (Khaliji)	iso639-3, ethnologue	afb			
+Gulf Arabic	خليجي	iso639-3, ethnologue	afb			
+Gulf Arabic	Khaliji	iso639-3, ethnologue	afb		Latn	
 Andai		iso639-3	afd			
 Putukwam		iso639-3	afe			
 Afghan Sign Language		iso639-3	afg			
@@ -143,7 +150,8 @@ Central Cagayan Agta	Agta	iso639-3, ethnologue	agt
 Aguacateco	Qa'yol	iso639-3, ethnologue	agu			
 Remontado Dumagat		iso639-3	agv			
 Kahua		iso639-3	agw			
-Aghul	Агъул (Aġul), агъул чӀал (Ağul ҫ̇al)	iso639-3, ethnologue	agx			
+Aghul	Агъул, агъул чӀал	iso639-3, ethnologue	agx			
+Aghul	Aġul, Ağul č̣al	iso639-3, ethnologue	agx		Latn	
 Southern Alta	Alta, Kaboloan	iso639-3, ethnologue	agy			
 Mt. Iriga Agta		iso639-3	agz			
 Ahanta		iso639-3	aha			
@@ -168,12 +176,14 @@ Amara		iso639-3	aie
 Agi		iso639-3	aif			
 Antigua and Barbuda Creole English	Creole	iso639-3, ethnologue	aig			
 Ai-Cham		iso639-3	aih			
-Assyrian Neo-Aramaic	ܐܬܘܪܝܐ (Ātūrāyā), ܣܘܪܬ (Sūrët)	iso639-3, ethnologue	aii			
+Assyrian Neo-Aramaic	ܐܬܘܪܝܐ, ܣܘܪܬ	iso639-3, ethnologue	aii			
+Assyrian Neo-Aramaic	Ātūrāyā, Sūrët	iso639-3, ethnologue	aii		Latn	
 Lishanid Noshan		iso639-3	aij			
 Ake		iso639-3	aik			
 Aimele		iso639-3	ail			
 Aimol		iso639-3, ethnologue	aim			
-Ainu	アイヌ (Aynu), アイヌ イタㇰ (Aynu itak)	cldr, ethnologue	ain			
+Ainu	アイヌ, アイヌ イタㇰ	cldr, ethnologue	ain			
+Ainu	Aynu, Aynu itak	cldr, ethnologue	ain		Latn	
 Aiton		iso639-3	aio			
 Burumakok		iso639-3	aip			
 Aimaq		iso639-3	aiq			
@@ -232,7 +242,8 @@ Alune		iso639-3	alp
 Algonquin	Anishinaabemowin	iso639-3, ethnologue	alq			
 Alutor		iso639-3	alr			
 Tosk Albanian	Shqip	iso639-3, ethnologue	als			
-Southern Altai	Алтай тили (Altay tili), алтайча (Altajča)	cldr, ethnologue	alt			
+Southern Altai	Алтай тили, алтайча	cldr, ethnologue	alt			
+Southern Altai	Altay tili, Altajča	cldr, ethnologue	alt		Latn	
 'Are'are		iso639-3, ethnologue	alu			
 Alaba-K'abeena		iso639-3	alw			
 Amol		iso639-3	alx			
@@ -271,14 +282,16 @@ Xârâcùù		iso639-3	ane
 Animere		iso639-3	anf			
 Old English		cldr	ang			
 Nend		iso639-3	anh			
-Andi	КъӀаваннаб мицци (Qwavannab Micci), мицци (Micci)	iso639-3, ethnologue	ani			
+Andi	КъӀаваннаб мицци, мицци	iso639-3, ethnologue	ani			
+Andi	Qwavannab Micci, Micci	iso639-3, ethnologue	ani		Latn	
 Anor		iso639-3	anj			
 Goemai		iso639-3	ank			
 Anu-Hkongso Chin		iso639-3	anl			
 Anal		iso639-3	anm			
 Obolo		iso639-3, ethnologue	ann			
 Andoque		iso639-3	ano			
-Angika	अंगिका (Angika)	cldr, ethnologue	anp			
+Angika	अंगिका	cldr, ethnologue	anp			
+Angika		cldr, ethnologue	anp		Latn	
 Jarawa (India)		iso639-3	anq			
 Andh		iso639-3	anr			
 Anserma		iso639-3	ans			
@@ -309,12 +322,14 @@ A'ou		iso639-3	aou
 Atorada		iso639-3	aox			
 Uab Meto		iso639-3, ethnologue	aoz			
 Sa'a		iso639-3	apb			
-North Levantine Arabic	اللهجة العربيّة السورىّة (El-lahjeẗ el-'arabīyeẗ es-sūrīyé)	iso639-3, ethnologue	apc			
+North Levantine Arabic	اللهجة العربيّة السورىّة	iso639-3, ethnologue	apc			
+North Levantine Arabic	El-lahjeẗ el-'arabīyeẗ es-sūrīyé	iso639-3, ethnologue	apc		Latn	
 Sudanese Arabic	Arabi	iso639-3, ethnologue	apd			
 Bukiyip		iso639-3	ape			
 Pahanan Agta		iso639-3	apf			
 Ampanang		iso639-3	apg			
-Athpariya	आठपहरिया (Āṭhapahariyā)	iso639-3, ethnologue	aph			
+Athpariya	आठपहरिया	iso639-3, ethnologue	aph			
+Athpariya	Āṭhapahariyā	iso639-3, ethnologue	aph		Latn	
 Apiaká		iso639-3	api			
 Jicarilla Apache	Abáachi mizaa, Jicarilla Abáachi	iso639-3, ethnologue	apj			
 Kiowa Apache		iso639-3	apk			
@@ -344,7 +359,8 @@ Arhâ		iso639-3	aqr
 Angaité		iso639-3	aqt			
 Akuntsu		iso639-3	aqz			
 Arabic	العربية	cldr	ara	ar		
-Standard Arabic	العربية (al-ʻArabīyah)	iso639-3, ethnologue	arb			
+Standard Arabic	العربية	iso639-3, ethnologue	arb			
+Standard Arabic	Al-ʻArabīyah	iso639-3, ethnologue	arb		Latn	
 Aramaic		cldr	arc			
 Arabana		iso639-3	ard			
 Western Arrarnta	Arrente	iso639-3, ethnologue	are			
@@ -357,15 +373,18 @@ Arabela	Tapueyocaca	iso639-3, ethnologue	arl
 Mapuche	Mapudungun	cldr	arn			
 Araona		cldr	aro			
 Arapaho	Hinónoʼeitíít	cldr, ethnologue	arp			
-Algerian Arabic	دزيرية (Dziria)	cldr, ethnologue	arq			
+Algerian Arabic	دزيرية	cldr, ethnologue	arq			
+Algerian Arabic	Dziria	cldr, ethnologue	arq		Latn	
 Karo (Brazil)		iso639-3	arr			
 Najdi Arabic		cldr	ars			
 Aruá (Amazonas State)		iso639-3	aru			
 Arbore		iso639-3	arv			
 Arawak	Lokono	cldr, ethnologue	arw			
 Aruá (Rodonia State)		iso639-3	arx			
-Moroccan Arabic	الدارجة (Darija)	cldr, ethnologue	ary			
-Egyptian Arabic	مصري (Masri)	cldr, ethnologue	arz			
+Moroccan Arabic	الدارجة	cldr, ethnologue	ary			
+Moroccan Arabic	Darija	cldr, ethnologue	ary		Latn	
+Egyptian Arabic	مصري	cldr, ethnologue	arz			
+Egyptian Arabic	Masri	cldr, ethnologue	arz		Latn	
 Asu	Kipare	cldr	asa			
 Assiniboine		iso639-3	asb			
 Casuarina Coast Asmat		iso639-3	asc			
@@ -410,7 +429,8 @@ Waimiri-Atroari		iso639-3	atr
 Gros Ventre		iso639-3	ats			
 Pamplona Atta	Atta	iso639-3, ethnologue	att			
 Reel	Thok Reel	iso639-3, ethnologue	atu			
-Northern Altai	Алтай тили (Altay tili)	iso639-3, ethnologue	atv			
+Northern Altai	Алтай тили	iso639-3, ethnologue	atv			
+Northern Altai	Altay tili	iso639-3, ethnologue	atv		Latn	
 Atsugewi		iso639-3	atw			
 Arutani		iso639-3	atx			
 Aneityum	Anejom, Intas Anejom	iso639-3, ethnologue	aty			
@@ -437,7 +457,8 @@ Awyi		iso639-3	auw
 Aurá		iso639-3	aux			
 Awiyaana		iso639-3	auy			
 Uzbeki Arabic		iso639-3	auz			
-Avaric	Авар мацӏ (Awar mac̣), магӏарул мацӏ (Maʿarul mac̣)	cldr, ethnologue	ava	av		
+Avaric	Авар мацӏ, магӏарул мацӏ	cldr, ethnologue	ava	av		
+Avaric	Awar mac̣, Maʿarul mac̣	cldr, ethnologue	ava	av	Latn	
 Avau		iso639-3	avb			
 Alviri-Vidari		iso639-3	avd			
 Avestan		cldr	ave	ae		
@@ -451,7 +472,8 @@ Aushiri		iso639-3	avs
 Au		iso639-3, ethnologue	avt			
 Avokaya		iso639-3	avu			
 Avá-Canoeiro		iso639-3	avv			
-Awadhi	अवधी (Awadhi)	cldr, ethnologue	awa			
+Awadhi	अवधी	cldr, ethnologue	awa			
+Awadhi		cldr, ethnologue	awa		Latn	
 Awa (Papua New Guinea)		iso639-3	awb			
 Cicipu		iso639-3	awc			
 Awetí		iso639-3	awe			
@@ -486,7 +508,8 @@ Ginyanga		iso639-3	ayg
 Hadrami Arabic		iso639-3	ayh			
 Leyigha		iso639-3	ayi			
 Akuku		iso639-3	ayk			
-Libyan Arabic	ليبي (Lībi)	iso639-3, ethnologue	ayl			
+Libyan Arabic	ليبي	iso639-3, ethnologue	ayl			
+Libyan Arabic	Lībi	iso639-3, ethnologue	ayl		Latn	
 Aymara		cldr	aym	ay		
 Sanaani Arabic		iso639-3	ayn			
 Ayoreo	Morotoco	iso639-3, ethnologue	ayo			
@@ -498,11 +521,13 @@ Magbukun Ayta		iso639-3	ayt
 Ayu		iso639-3	ayu			
 Mai Brat		iso639-3	ayz			
 Azha		iso639-3	aza			
-South Azerbaijani	آذربایجان دیلی (Azərbaycan dili), آذربایجانجا (Azərbaycanca)	iso639-3, ethnologue	azb			
+South Azerbaijani	آذربایجان دیلی, آذربایجانجا	iso639-3, ethnologue	azb			
+South Azerbaijani	Azərbaycan dili, Azərbaycanca	iso639-3, ethnologue	azb		Latn	
 Eastern Durango Nahuatl	Meshikan de San Pedro Shikora	iso639-3, ethnologue	azd			
 Azerbaijani	Azərbaycan	cldr	aze	az		
 San Pedro Amuzgos Amuzgo	Jnꞌoon	iso639-3, ethnologue	azg			
-North Azerbaijani	Азәрбајҹан дили (Azərbaycan dili), азәрбајҹанҹа (azərbaycanca)	iso639-3, ethnologue	azj			
+North Azerbaijani	Азәрбајҹан дили, азәрбајҹанҹа	iso639-3, ethnologue	azj			
+North Azerbaijani	Azərbaycan dili, azərbaycanca	iso639-3, ethnologue	azj		Latn	
 Ipalapa Amuzgo	Jñunda	iso639-3, ethnologue	azm			
 Western Durango Nahuatl	Meshikan de San Agustin Buenaventura y de Santa Cruz	iso639-3, ethnologue	azn			
 Awing	Atembuluwe	iso639-3, ethnologue	azo			
@@ -516,7 +541,8 @@ Nubaca		iso639-3	baf
 Tuki		iso639-3	bag			
 Bahamas Creole English		iso639-3	bah			
 Barakai		iso639-3	baj			
-Bashkir	Башҡорт теле (Başķort tele), башҡортса (Başķortsa)	cldr, ethnologue	bak	ba		
+Bashkir	Башҡорт теле, башҡортса	cldr, ethnologue	bak	ba		
+Bashkir	Başķort tele, Başķortsa	cldr, ethnologue	bak	ba	Latn	
 Baluchi		cldr	bal			
 Bambara	Bamanakan	cldr	bam	bm		
 Balinese	Basa Bali, Basa Bali	cldr, ethnologue	ban			
@@ -554,9 +580,11 @@ Karnai		iso639-3	bbv
 Baba	Supapyak'	iso639-3, ethnologue	bbw			
 Bubia		iso639-3	bbx			
 Befang		iso639-3	bby			
-Central Bai	白语 (Baip‧ngvp‧zix)	iso639-3, ethnologue	bca			
+Central Bai	白语	iso639-3, ethnologue	bca			
+Central Bai	Baip‧ngvp‧zix	iso639-3, ethnologue	bca		Latn	
 Bainouk-Samik		iso639-3	bcb			
-Southern Balochi	بلوچی (Balōčī), بلوچی زبان (Balōčī Zubān)	iso639-3, ethnologue	bcc			
+Southern Balochi	بلوچی, بلوچی زبان	iso639-3, ethnologue	bcc			
+Southern Balochi	Balōčī, Balōčī Zubān	iso639-3, ethnologue	bcc		Latn	
 North Babar		iso639-3	bcd			
 Bamenyam		iso639-3	bce			
 Bamu		iso639-3	bcf			
@@ -646,19 +674,26 @@ Mmen		iso639-3	bfm
 Bunak		iso639-3	bfn			
 Malba Birifor		iso639-3	bfo			
 Beba		iso639-3	bfp			
-Badaga	ಬಡಗ (Badaga)	cldr, ethnologue	bfq			
+Badaga		cldr, ethnologue	bfq			
+Badaga	ಬಡಗ	cldr, ethnologue	bfq		Knda	
 Bazigar		iso639-3	bfr			
-Southern Bai	白语 (Baip‧ngvp‧zix)	iso639-3, ethnologue	bfs			
-Balti	بلتی (Baltī), སྦལ་འཐུས་ (Balti)	iso639-3, ethnologue	bft			
+Southern Bai	白语	iso639-3, ethnologue	bfs			
+Southern Bai	Baip‧ngvp‧zix	iso639-3, ethnologue	bfs		Latn	
+Balti	بلتی	iso639-3, ethnologue	bft			
+Balti	Baltī	iso639-3, ethnologue	bft		Latn	
+Balti	སྦལ་འཐུས་	iso639-3, ethnologue	bft		Tibt	
 Gahri		iso639-3	bfu			
 Bondo		iso639-3	bfw			
 Bantayanon		iso639-3	bfx			
-Bagheli	बघेली (Bagheli)	iso639-3, ethnologue	bfy			
+Bagheli	बघेली	iso639-3, ethnologue	bfy			
+Bagheli		iso639-3, ethnologue	bfy		Latn	
 Mahasu Pahari		iso639-3	bfz			
 Gwamhi-Wuri		iso639-3	bga			
 Bobongko		iso639-3	bgb			
-Haryanvi	हरियाणवी (Hariyāṇvī), हिंदी (Hindi)	iso639-3, ethnologue	bgc			
-Rathwi Bareli	बरेली (Bareli)	iso639-3, ethnologue	bgd			
+Haryanvi	हरियाणवी, हिंदी	iso639-3, ethnologue	bgc			
+Haryanvi	Hariyāṇvī, Hindi	iso639-3, ethnologue	bgc		Latn	
+Rathwi Bareli	बरेली	iso639-3, ethnologue	bgd			
+Rathwi Bareli	Bareli	iso639-3, ethnologue	bgd		Latn	
 Bauria		iso639-3	bge			
 Bangandu		iso639-3	bgf			
 Bugun		iso639-3, ethnologue	bgg			
@@ -668,8 +703,10 @@ Bit		iso639-3	bgk
 Bo (Laos)		iso639-3	bgl			
 Western Balochi	بلوچی (رخشانی)	cldr	bgn			
 Baga Koga		iso639-3	bgo			
-Eastern Balochi	بلوچی (Balōčī), بلوچی زبان (Balōčī Zubān)	iso639-3, ethnologue	bgp			
-Bagri	बागड़ी (Bagri)	iso639-3, ethnologue	bgq			
+Eastern Balochi	بلوچی, بلوچی زبان	iso639-3, ethnologue	bgp			
+Eastern Balochi	Balōčī, Balōčī Zubān	iso639-3, ethnologue	bgp		Latn	
+Bagri	बागड़ी	iso639-3, ethnologue	bgq			
+Bagri		iso639-3, ethnologue	bgq		Latn	
 Bawm Chin		iso639-3	bgr			
 Tagabawa	Bagobo	iso639-3, ethnologue	bgs			
 Bughotu		iso639-3	bgt			
@@ -680,9 +717,11 @@ Balkan Gagauz Turkish		iso639-3	bgx
 Benggoi		iso639-3	bgy			
 Banggai		iso639-3	bgz			
 Bharia		iso639-3	bha			
-Bhili	भीली (Bhīlī)	iso639-3, ethnologue	bhb			
+Bhili	भीली	iso639-3, ethnologue	bhb			
+Bhili	Bhīlī	iso639-3, ethnologue	bhb		Latn	
 Biga		iso639-3	bhc			
-Bhadrawahi	भद्रवाही (Bhadrawahi)	iso639-3, ethnologue	bhd			
+Bhadrawahi	भद्रवाही	iso639-3, ethnologue	bhd			
+Bhadrawahi		iso639-3, ethnologue	bhd		Latn	
 Bhaya		iso639-3	bhe			
 Odiai		iso639-3	bhf			
 Binandere		iso639-3	bhg			
@@ -692,7 +731,8 @@ Bahing		iso639-3	bhj
 Bimin		iso639-3	bhl			
 Bathari		iso639-3	bhm			
 Bohtan Neo-Aramaic		iso639-3	bhn			
-Bhojpuri	भोजपुरी (Bhōjpurī)	cldr, ethnologue	bho			
+Bhojpuri	भोजपुरी	cldr, ethnologue	bho			
+Bhojpuri	Bhōjpurī	cldr, ethnologue	bho		Latn	
 Bima		iso639-3	bhp			
 Tukang Besi South		iso639-3	bhq			
 Bara Malagasy		iso639-3	bhr			
@@ -734,11 +774,13 @@ Barzani Jewish Neo-Aramaic		iso639-3	bjf
 Bidyogo		iso639-3	bjg			
 Bahinemo		iso639-3, ethnologue	bjh			
 Burji		iso639-3	bji			
-Kanauji	देहाती (Dehati), हिन्दी (Hindi)	iso639-3, ethnologue	bjj			
+Kanauji	देहाती, हिन्दी	iso639-3, ethnologue	bjj			
+Kanauji	Dehati, Hindi	iso639-3, ethnologue	bjj		Latn	
 Barok		iso639-3	bjk			
 Bulu (Papua New Guinea)		iso639-3	bjl			
 Bajelani		iso639-3	bjm			
-Banjar	بنجر (Banjar)	cldr, ethnologue	bjn			
+Banjar		cldr, ethnologue	bjn			
+Banjar	بنجر	cldr, ethnologue	bjn		Arab	
 Mid-Southern Banda		iso639-3	bjo			
 Fanamaket		iso639-3	bjp			
 Binumarien		iso639-3, ethnologue	bjr			
@@ -774,7 +816,8 @@ Bekwel		iso639-3	bkw
 Baikeno	Uab Metô	iso639-3, ethnologue	bkx			
 Bokyi		iso639-3	bky			
 Bungku		iso639-3	bkz			
-Siksika	ᓱᖽᐧᖿ (Siksiká)	cldr, ethnologue	bla			
+Siksika	ᓱᖽᐧᖿ	cldr, ethnologue	bla			
+Siksika	Siksiká	cldr, ethnologue	bla		Latn	
 Bilua		iso639-3	blb			
 Bella Coola		iso639-3	blc			
 Bolango		iso639-3	bld			
@@ -840,7 +883,8 @@ Bantoanon	Binisaya, Bisaya	iso639-3, ethnologue	bno
 Bola		iso639-3	bnp			
 Bantik		iso639-3	bnq			
 Butmas-Tur		iso639-3	bnr			
-Bundeli	बुन्देली (Bundeli)	iso639-3, ethnologue	bns			
+Bundeli	बुन्देली	iso639-3, ethnologue	bns			
+Bundeli		iso639-3, ethnologue	bns		Latn	
 Bentong		iso639-3	bnu			
 Bonerif		iso639-3	bnv			
 Bisis		iso639-3	bnw			
@@ -903,7 +947,8 @@ Bung		iso639-3	bqd
 Baga Kaloum		iso639-3	bqf			
 Bago-Kusuntu		iso639-3	bqg			
 Baima		iso639-3	bqh			
-Bakhtiari	بختیاری (Bakhtiâri)	cldr, ethnologue	bqi			
+Bakhtiari	بختیاری	cldr, ethnologue	bqi			
+Bakhtiari	Bakhtiâri	cldr, ethnologue	bqi		Latn	
 Bandial	Gubanjalay	iso639-3, ethnologue	bqj			
 Banda-Mbrès		iso639-3	bqk			
 Bilakura		iso639-3	bql			
@@ -928,7 +973,8 @@ Baraamu		iso639-3	brd
 Breton	Brezhoneg	cldr	bre	br		
 Bera	Kibira	iso639-3, ethnologue	brf			
 Baure		iso639-3, ethnologue	brg			
-Brahui	براہوئی (brāhūʾī)	cldr, ethnologue	brh			
+Brahui	براہوئی	cldr, ethnologue	brh			
+Brahui	Brāhūʾī	cldr, ethnologue	brh		Latn	
 Mokpwe		iso639-3	bri			
 Bieria		iso639-3	brj			
 Birked		iso639-3	brk			
@@ -956,7 +1002,8 @@ Bashkardi		iso639-3	bsg
 Kati		iso639-3	bsh			
 Bassossi		iso639-3	bsi			
 Bangwinji		iso639-3	bsj			
-Burushaski	Mishaski, بروشسکی (burū́šaskī)	iso639-3, ethnologue	bsk			
+Burushaski	بروشسکی	iso639-3, ethnologue	bsk			
+Burushaski	Mishaski, burū́šaskī	iso639-3, ethnologue	bsk		Latn	
 Basa-Gumna		iso639-3	bsl			
 Busami		iso639-3	bsm			
 Barasana-Eduria		iso639-3, ethnologue	bsn			
@@ -1203,7 +1250,8 @@ Chodri		iso639-3	cdi
 Churahi		iso639-3	cdj			
 Chepang		iso639-3	cdm			
 Chaudangsi		iso639-3	cdn			
-Min Dong Chinese	平話 (Bangua), 闽东话 (Mindongyu)	iso639-3, ethnologue	cdo			
+Min Dong Chinese	平話, 闽东话	iso639-3, ethnologue	cdo			
+Min Dong Chinese	Bangua, Mindongyu	iso639-3, ethnologue	cdo		Latn	
 Cinda-Regi-Tiyal		iso639-3	cdr			
 Chadian Sign Language		iso639-3	cds			
 Chadong		iso639-3	cdy			
@@ -1272,7 +1320,8 @@ Ashéninka Pajonal		iso639-3	cjo
 Cabécar		iso639-3, ethnologue	cjp			
 Shor		iso639-3	cjs			
 Chuave		iso639-3	cjv			
-Jinyu Chinese	晋语 (Jin)	iso639-3, ethnologue	cjy			
+Jinyu Chinese	晋语	iso639-3, ethnologue	cjy			
+Jinyu Chinese	Jin	iso639-3, ethnologue	cjy		Latn	
 Central Kurdish	کوردیی ناوەندی	cldr	ckb			
 Chak		iso639-3	ckh			
 Cibak		iso639-3	ckl			
@@ -1310,7 +1359,8 @@ Classical Mongolian		iso639-3	cmg
 Emberá-Chamí		iso639-3	cmi			
 Campalagian		iso639-3	cml			
 Michigamea		iso639-3	cmm			
-Mandarin Chinese	普通话 (Putonghua)	iso639-3, ethnologue	cmn			
+Mandarin Chinese	普通话	iso639-3, ethnologue	cmn			
+Mandarin Chinese	Putonghua	iso639-3, ethnologue	cmn		Latn	
 Central Mnong		iso639-3	cmo			
 Mro-Khimi Chin	Khimi, Mro-Khimi	iso639-3, ethnologue	cmr			
 Messapic		iso639-3	cms			
@@ -1377,9 +1427,12 @@ Caramanta		iso639-3	crf
 Michif		iso639-3	crg			
 Crimean Turkish	Qirim, Qirimtatar	cldr, ethnologue	crh			
 Sãotomense		iso639-3	cri			
-Southern East Cree	ᐄᓅ ᐊᔨᒨᓐ, Īnū Ayimūn	github	crj			
-Plains Cree	ᓀᐦᐃᔭᐍᐏᐣ, Nēhiyawēwin	github	crk			
-Northern East Cree	ᐄᔨᔫ ᐊᔨᒨᓐ, Īyiyū Ayimūn	github	crl			
+Southern East Cree	Īnū Ayimūn	github	crj			
+Southern East Cree	ᐄᓅ ᐊᔨᒨᓐ	github	crj		Cans	
+Plains Cree	Nēhiyawēwin	github	crk			
+Plains Cree	ᓀᐦᐃᔭᐍᐏᐣ	github	crk		Cans	
+Northern East Cree	Īyiyū Ayimūn	github	crl			
+Northern East Cree	ᐄᔨᔫ ᐊᔨᒨᓐ	github	crl		Cans	
 Moose Cree	Mōsonī, Ililiw	github	crm			
 El Nayar Cora	Naáyeri	iso639-3, ethnologue	crn			
 Crow		iso639-3	cro			
@@ -1421,7 +1474,8 @@ Tataltepec Chatino	Cha' jna'a	iso639-3, ethnologue	cta
 Chetco		iso639-3	ctc			
 Tedim Chin	Tidim	iso639-3, ethnologue	ctd			
 Tepinapa Chinantec	Jujmi	iso639-3, ethnologue	cte			
-Chittagonian	চাঁটগাঁইয়া বুলি (Caṭgãia Buli)	iso639-3, ethnologue	ctg			
+Chittagonian	চাঁটগাঁইয়া বুলি	iso639-3, ethnologue	ctg			
+Chittagonian	Caṭgãia Buli	iso639-3, ethnologue	ctg		Latn	
 Thaiphum Chin	Thaiphum	iso639-3, ethnologue	cth			
 Tlacoatzintepec Chinantec	Jau jmai	iso639-3, ethnologue	ctl			
 Chitimacha		iso639-3	ctm			
@@ -2336,7 +2390,8 @@ Hanga		iso639-3	hag
 Hahon		iso639-3	hah			
 Haida		cldr	hai			
 Hajong		iso639-3	haj			
-Hakka Chinese	客家話 (Hakkafa)	cldr, ethnologue	hak			
+Hakka Chinese	客家話	cldr, ethnologue	hak			
+Hakka Chinese	Hakkafa	cldr, ethnologue	hak		Latn	
 Halang		iso639-3	hal			
 Hewa		iso639-3	ham			
 Hangaza		iso639-3	han			
@@ -2479,7 +2534,8 @@ Harzani		iso639-3	hrz
 Upper Sorbian	Hornjoserbšćina	cldr	hsb			
 Hungarian Sign Language		iso639-3	hsh			
 Hausa Sign Language		iso639-3	hsl			
-Xiang Chinese	湘语 (Xiang)	cldr, ethnologue	hsn			
+Xiang Chinese	湘语	cldr, ethnologue	hsn			
+Xiang Chinese	Xiang	cldr, ethnologue	hsn		Latn	
 Harsusi		iso639-3	hss			
 Hoti		iso639-3	hti			
 Minica Huitoto		iso639-3	hto			
@@ -2581,7 +2637,8 @@ Biseni		iso639-3	ije
 Ede Ije		iso639-3	ijj			
 Kalabari		iso639-3	ijn			
 Southeast Ijo		iso639-3	ijs			
-Eastern Canadian Inuktitut	ᐃᓄᒃᑎᑐᑦ (Inuktitut)	iso639-3, ethnologue	ike			
+Eastern Canadian Inuktitut	ᐃᓄᒃᑎᑐᑦ	iso639-3, ethnologue	ike			
+Eastern Canadian Inuktitut	Inuktitut	iso639-3, ethnologue	ike		Latn	
 Ikhin-Arokho		iso639-3	ikh			
 Iko		iso639-3	iki			
 Ika		iso639-3	ikk			
@@ -2590,7 +2647,8 @@ Olulumo-Ikom		iso639-3	iko
 Ikpeshi		iso639-3	ikp			
 Ikaranggal		iso639-3	ikr			
 Inuit Sign Language		iso639-3	iks			
-Western Canadian Inuktitut	ᐃᓄᐃᓐᓇᖅᑐᓐ (Inuinnaqtun)	iso639-3, ethnologue	ikt			
+Western Canadian Inuktitut	Inuinnaqtun	iso639-3, ethnologue	ikt			
+Western Canadian Inuktitut	ᐃᓄᐃᓐᓇᖅᑐᓐ	iso639-3, ethnologue	ikt		Cans	
 Inuktitut	ᐃᓄᒃᑎᑐᑦ	cldr	iku	iu		
 Iku-Gora-Ankwa		iso639-3	ikv			
 Ikwere		iso639-3	ikw			
@@ -2730,7 +2788,8 @@ Jabutí		iso639-3	jbt
 Jukun Takum	Njikum	iso639-3, ethnologue	jbu			
 Yawijibaya		iso639-3	jbw			
 Jamaican Country Sign Language		iso639-3	jcs			
-Krymchak	Кърымчах тыльы (Krymchakh Tilyi)	iso639-3, ethnologue	jct			
+Krymchak	Кърымчах тыльы	iso639-3, ethnologue	jct			
+Krymchak	Krymchakh Tilyi	iso639-3, ethnologue	jct		Latn	
 Jad		iso639-3	jda			
 Jadgali		iso639-3	jdg			
 Judeo-Tat	Juwri	iso639-3, ethnologue	jdt			
@@ -3007,7 +3066,8 @@ Karon Dori		iso639-3	kgw
 Kamaru		iso639-3	kgx			
 Kyerung		iso639-3	kgy			
 Khasi		cldr, ethnologue	kha			
-Lü	ᦅᧄᦺᦑᦟᦹᧉ (Kam Tai Lue)	iso639-3, ethnologue	khb			
+Lü	ᦅᧄᦺᦑᦟᦹᧉ	iso639-3, ethnologue	khb			
+Lü	Kam Tai Lue	iso639-3, ethnologue	khb		Latn	
 Tukang Besi North		iso639-3	khc			
 Bädi Kanum		iso639-3	khd			
 Korowai		iso639-3	khe			
@@ -3015,7 +3075,8 @@ Khuen		iso639-3	khf
 Khams Tibetan		iso639-3	khg			
 Kehu		iso639-3	khh			
 Kuturmi		iso639-3	khj			
-Halh Mongolian	Монгол хэл (Mongol khel)	iso639-3, ethnologue	khk			
+Halh Mongolian	Монгол хэл	iso639-3, ethnologue	khk			
+Halh Mongolian	Mongol khel	iso639-3, ethnologue	khk		Latn	
 Lusi		iso639-3	khl			
 Khmer	ខ្មែរ	cldr	khm	km		
 Khandesi		iso639-3	khn			
@@ -3043,7 +3104,8 @@ Kitsai		iso639-3	kii
 Kilivila		iso639-3	kij			
 Kikuyu	Gikuyu	cldr	kik	ki		
 Kariya		iso639-3	kil			
-Karagas	Тоъфа дыл (tofa dyl)	iso639-3, ethnologue	kim			
+Karagas	Тоъфа дыл	iso639-3, ethnologue	kim			
+Karagas	Tofa dyl	iso639-3, ethnologue	kim		Latn	
 Kinyarwanda		cldr	kin	rw		
 Kiowa	Cáuijògà	iso639-3, ethnologue	kio			
 Sheshi Kham		iso639-3	kip			
@@ -3062,7 +3124,8 @@ Q'anjob'al		iso639-3	kjb
 Coastal Konjo		iso639-3	kjc			
 Southern Kiwai		iso639-3	kjd			
 Kisar		iso639-3	kje			
-Khmu	ກຶມຫມຸ (Kmhmu')	iso639-3, ethnologue	kjg			
+Khmu	ກຶມຫມຸ	iso639-3, ethnologue	kjg			
+Khmu	Kmhmu'	iso639-3, ethnologue	kjg		Latn	
 Khakas		iso639-3	kjh			
 Zabana		iso639-3	kji			
 Khinalugh		iso639-3	kjj			
@@ -3171,7 +3234,8 @@ Western Kanjobal	K'anjob'al	iso639-3, ethnologue	knj
 Kuranko		iso639-3	knk			
 Keninjal		iso639-3	knl			
 Kanamarí		iso639-3	knm			
-Konkani	कोंकणी (Konknni)	iso639-3, ethnologue	knn			
+Konkani	कोंकणी	iso639-3, ethnologue	knn			
+Konkani	Konknni	iso639-3, ethnologue	knn		Latn	
 Kono (Sierra Leone)		iso639-3	kno			
 Kwanja		iso639-3	knp			
 Kintaq		iso639-3	knq			
@@ -3409,7 +3473,8 @@ Kwadi		iso639-3	kwz
 Kairiru		iso639-3	kxa			
 Krobu		iso639-3	kxb			
 Konso	Khonso	iso639-3, ethnologue	kxc			
-Brunei	Bahasa Melayu Brunei, بهاس ملايو بروني (Bahasa Melayu Brunei)	iso639-3, ethnologue	kxd			
+Brunei	Bahasa Melayu Brunei	iso639-3, ethnologue	kxd			
+Brunei	بهاس ملايو بروني	iso639-3, ethnologue	kxd		Arab	
 Manumanaw Karen	Kawyaw	iso639-3, ethnologue	kxf			
 Karo (Ethiopia)		iso639-3	kxh			
 Keningau Murut		iso639-3, ethnologue	kxi			
@@ -3596,7 +3661,8 @@ Laha (Viet Nam)		iso639-3	lha
 Laha (Indonesia)		iso639-3	lhh			
 Lahu Shi		iso639-3	lhi			
 Lahul Lohar		iso639-3	lhl			
-Lhomi	ल्होमी (Lhomi)	iso639-3, ethnologue	lhm			
+Lhomi	ल्होमी	iso639-3, ethnologue	lhm			
+Lhomi		iso639-3, ethnologue	lhm		Latn	
 Lahanan		iso639-3	lhn			
 Lhokpu		iso639-3	lhp			
 Mlahsö		iso639-3	lhs			
@@ -3729,7 +3795,8 @@ Louisiana Creole		cldr	lou
 Lopi		iso639-3	lov			
 Tampias Lobu		iso639-3	low			
 Loun		iso639-3	lox			
-Loke	ल्होवा (Lhowa)	iso639-3, ethnologue	loy			
+Loke	ल्होवा	iso639-3, ethnologue	loy			
+Loke	Lhowa	iso639-3, ethnologue	loy		Latn	
 Lozi		cldr	loz			
 Lelepa		iso639-3	lpa			
 Lepki		iso639-3	lpe			
@@ -3835,7 +3902,8 @@ Bo-Rukul		iso639-3	mae
 Mafa		cldr	maf			
 Magahi		cldr	mag			
 Marshallese		cldr	mah	mh		
-Maithili	मैथिली (Maithilī)	cldr, ethnologue	mai			
+Maithili	मैथिली	cldr, ethnologue	mai			
+Maithili	Maithilī	cldr, ethnologue	mai		Latn	
 Jalapa De Díaz Mazatec	Ntaxjo	iso639-3, ethnologue	maj			
 Makasar		cldr	mak			
 Malayalam	മലയാളം	cldr	mal	ml		
@@ -3948,9 +4016,12 @@ Mato		iso639-3	met
 Motu		iso639-3	meu			
 Mano	Maa	iso639-3, ethnologue	mev			
 Maaka		iso639-3	mew			
-Hassaniyya	حسانية (Ḥassānīya)	iso639-3, ethnologue	mey			
+Hassaniyya	حسانية	iso639-3, ethnologue	mey			
+Hassaniyya	Ḥassānīya	iso639-3, ethnologue	mey		Latn	
 Menominee		iso639-3	mez			
-Pattani Malay	ภาษายาวี (Baso Jawi)	iso639-3, ethnologue	mfa			
+Pattani Malay		iso639-3, ethnologue	mfa			
+Pattani Malay	Baso Jawi	iso639-3, ethnologue	mfa		Latn	
+Pattani Malay	ภาษายาวี	iso639-3, ethnologue	mfa		Thai	
 Bangka		iso639-3	mfb			
 Mba		iso639-3	mfc			
 Mendankwe-Nkwen		iso639-3	mfd			
@@ -4245,7 +4316,8 @@ Murupi		iso639-3	mqw
 Mamuju		iso639-3	mqx			
 Manggarai		iso639-3	mqy			
 Pano		iso639-3	mqz			
-Mlabri	มละบริ (Mlabri), มาลาบรี (Malabri)	iso639-3, ethnologue	mra			
+Mlabri	มละบริ, มาลาบรี	iso639-3, ethnologue	mra			
+Mlabri	Malabri	iso639-3, ethnologue	mra		Latn	
 Marino		iso639-3	mrb			
 Maricopa		iso639-3	mrc			
 Martha's Vineyard Sign Language		iso639-3	mre			
@@ -4470,7 +4542,8 @@ Nalu		iso639-3	naj
 Nakanai		iso639-3	nak			
 Nalik		iso639-3	nal			
 Ngan'gityemerri		iso639-3	nam			
-Min Nan Chinese	闽南语 (Minnanyu)	cldr, ethnologue	nan			
+Min Nan Chinese	闽南语	cldr, ethnologue	nan			
+Min Nan Chinese	Minnanyu	cldr, ethnologue	nan		Latn	
 Naaba		iso639-3	nao			
 Neapolitan		cldr	nap			
 Nama	Khoekhoegowab	cldr	naq			
@@ -4575,7 +4648,8 @@ Bhoti Kinnauri		iso639-3	nes
 Nete		iso639-3	net			
 Neo		iso639-3	neu			
 Nyaheun		iso639-3	nev			
-Newari	नेवाः भाय् (Newah Bhaaye)	cldr, ethnologue	new			
+Newari	नेवाः भाय्	cldr, ethnologue	new			
+Newari	Newah Bhaaye	cldr, ethnologue	new		Latn	
 Neme		iso639-3	nex			
 Neyo		iso639-3	ney			
 Nez Perce		iso639-3	nez			
@@ -4791,7 +4865,8 @@ Nar Phu		iso639-3	npa
 Nupbikha		iso639-3	npb			
 Ponyo-Gongwang Naga	Gongwang Naga, Ponyo Naga	iso639-3, ethnologue	npg			
 Phom Naga		iso639-3	nph			
-Nepali	नेपाली (Nepālī)	iso639-3, ethnologue	npi			
+Nepali	नेपाली	iso639-3, ethnologue	npi			
+Nepali	Nepālī	iso639-3, ethnologue	npi		Latn	
 Southeastern Puebla Nahuatl		iso639-3	npl			
 Mondropolon		iso639-3	npn			
 Pochuri Naga		iso639-3	npo			
@@ -5087,7 +5162,8 @@ Ormuri		iso639-3	oru
 Old Russian		iso639-3	orv			
 Oro Win		iso639-3	orw			
 Oro		iso639-3	orx			
-Odia	ଓଡ଼ିଆ (Oḍiā)	iso639-3, ethnologue	ory			
+Odia	ଓଡ଼ିଆ	iso639-3, ethnologue	ory			
+Odia	Oḍiā	iso639-3, ethnologue	ory		Latn	
 Ormu		iso639-3	orz			
 Osage		cldr	osa			
 Oscan		iso639-3	osc			
@@ -5168,8 +5244,10 @@ Papel		iso639-3	pbo
 Badyara		iso639-3	pbp			
 Pangwa		iso639-3	pbr			
 Central Pame	Xi'oi	iso639-3, ethnologue	pbs			
-Southern Pashto	پښتو (Pax̌tō)	iso639-3, ethnologue	pbt			
-Northern Pashto	پښتو (Pashto)	iso639-3, ethnologue	pbu			
+Southern Pashto	پښتو	iso639-3, ethnologue	pbt			
+Southern Pashto	Pax̌tō	iso639-3, ethnologue	pbt		Latn	
+Northern Pashto	پښتو	iso639-3, ethnologue	pbu			
+Northern Pashto	Pashto	iso639-3, ethnologue	pbu		Latn	
 Pnar		iso639-3	pbv			
 Pyu (Papua New Guinea)		iso639-3	pby			
 Santa Inés Ahuatempan Popoloca	Nquivā	iso639-3, ethnologue	pca			
@@ -5210,7 +5288,8 @@ Phende		iso639-3	pem
 Old Persian		cldr	peo			
 Kunja		iso639-3	pep			
 Southern Pomo		iso639-3	peq			
-Iranian Persian	فارسی (Fārsi)	iso639-3, ethnologue	pes			
+Iranian Persian	فارسی	iso639-3, ethnologue	pes			
+Iranian Persian	Fārsi	iso639-3, ethnologue	pes		Latn	
 Pémono		iso639-3	pev			
 Petats		iso639-3	pex			
 Petjo		iso639-3	pey			
@@ -5322,7 +5401,8 @@ Poumei Naga		iso639-3	pmx
 Papuan Malay	Melayu Papua	iso639-3, ethnologue	pmy			
 Southern Pame		iso639-3	pmz			
 Punan Bah-Biau		iso639-3	pna			
-Western Panjabi	پنجابی (Panjābī)	iso639-3, ethnologue	pnb			
+Western Panjabi	پنجابی	iso639-3, ethnologue	pnb			
+Western Panjabi	Panjābī	iso639-3, ethnologue	pnb		Latn	
 Pannei		iso639-3	pnc			
 Mpinda		iso639-3	pnd			
 Western Penan		iso639-3	pne			
@@ -5394,7 +5474,8 @@ Prasuni		iso639-3	prn
 Old Provençal		cldr	pro			
 Ashéninka Perené		iso639-3	prq			
 Puri		iso639-3	prr			
-Dari	فارسی (Farsi)	iso639-3, ethnologue	prs			
+Dari	فارسی	iso639-3, ethnologue	prs			
+Dari	Farsi	iso639-3, ethnologue	prs		Latn	
 Phai		iso639-3	prt			
 Puragi		iso639-3	pru			
 Parawen		iso639-3	prw			
@@ -5668,7 +5749,8 @@ Yurats		iso639-3	rts
 Rathawi		iso639-3	rtw			
 Gungu		iso639-3	rub			
 Ruuli		iso639-3	ruc			
-Rusyn	Русиньскый язык (Rusynska mova)	cldr, ethnologue	rue			
+Rusyn	Русиньскый язык	cldr, ethnologue	rue			
+Rusyn	Rusynska mova	cldr, ethnologue	rue		Latn	
 Luguru		iso639-3	ruf			
 Roviana		cldr	rug			
 Ruga		iso639-3	ruh			
@@ -5688,7 +5770,8 @@ Rwa	Kiruwa	cldr	rwk
 Ruwila		iso639-3	rwl			
 Amba (Uganda)	Kwamba	iso639-3, ethnologue	rwm			
 Rawa		iso639-3	rwo			
-Marwari (India)	मारवाड़ी (Mārwāṛī)	iso639-3, ethnologue	rwr			
+Marwari (India)	मारवाड़ी	iso639-3, ethnologue	rwr			
+Marwari (India)	Mārwāṛī	iso639-3, ethnologue	rwr		Latn	
 Ngardi		iso639-3	rxd			
 Karuwali		iso639-3	rxw			
 Northern Amami-Oshima		iso639-3	ryn			
@@ -5751,7 +5834,8 @@ Sanggau		iso639-3	scg
 Sakachep		iso639-3	sch			
 Sri Lankan Creole Malay		iso639-3	sci			
 Sadri		iso639-3	sck			
-Shina	شینا (Šīnā)	iso639-3, ethnologue	scl			
+Shina	شینا	iso639-3, ethnologue	scl			
+Shina	Šīnā	iso639-3, ethnologue	scl		Latn	
 Sicilian		cldr	scn			
 Scots		cldr	sco			
 Helambu Sherpa		iso639-3	scp			
@@ -5850,7 +5934,8 @@ Sala		iso639-3	shq
 Shi		iso639-3	shr			
 Shuswap		iso639-3	shs			
 Shasta		iso639-3	sht			
-Chadian Arabic	العربية (Alearabia)	cldr, ethnologue	shu			
+Chadian Arabic	العربية	cldr, ethnologue	shu			
+Chadian Arabic	Alearabia	cldr, ethnologue	shu		Latn	
 Shehri		iso639-3	shv			
 Shwai	Cwaya	iso639-3, ethnologue	shw			
 She		iso639-3	shx			
@@ -5911,7 +5996,8 @@ Kolibugan Subanon		iso639-3	skn
 Seko Tengah		iso639-3	sko			
 Sekapan		iso639-3	skp			
 Sininkere		iso639-3	skq			
-Saraiki	سرائیکی (Saraiki)	iso639-3, ethnologue	skr			
+Saraiki	سرائیکی	iso639-3, ethnologue	skr			
+Saraiki		iso639-3, ethnologue	skr		Latn	
 Maia		iso639-3	sks			
 Sakata		iso639-3	skt			
 Sakao		iso639-3	sku			
@@ -6062,6 +6148,7 @@ Saramaccan		iso639-3	srm
 Sranan Tongo	Sranan	cldr, ethnologue	srn			
 Campidanese Sardinian		iso639-3	sro			
 Serbian	Српски	cldr	srp	sr		
+Serbian	Srpski	cldr	srp	sr	Latn	
 Sirionó		iso639-3	srq			
 Serer		cldr	srr			
 Tsúūt'ínà		iso639-3, github	srs			
@@ -6195,7 +6282,8 @@ Senaya		iso639-3	syn
 Suoy		iso639-3	syo			
 Syriac	ܣܘܪܝܝܐ	cldr	syr			
 Sinyar		iso639-3	sys			
-Kagate	स्युबा (Syuba)	iso639-3, ethnologue	syw			
+Kagate	स्युबा	iso639-3, ethnologue	syw			
+Kagate	Syuba	iso639-3, ethnologue	syw		Latn	
 Samay		iso639-3	syx			
 Al-Sayyid Bedouin Sign Language		iso639-3	syy			
 Semelai		iso639-3	sza			
@@ -6360,7 +6448,8 @@ Togoyo		iso639-3	tgy
 Tagalaka		iso639-3	tgz			
 Thai	ไทย	cldr	tha	th		
 Thayore		iso639-3	thd			
-Chitwania Tharu	मध्य क्षेत्रीय थारू (Madhya Ksetriya Tharu)	iso639-3, ethnologue	the			
+Chitwania Tharu	मध्य क्षेत्रीय थारू	iso639-3, ethnologue	the			
+Chitwania Tharu	Madhya Ksetriya Tharu	iso639-3, ethnologue	the		Latn	
 Thangmi		iso639-3	thf			
 Northern Tarahumara		iso639-3	thh			
 Tai Long		iso639-3	thi			
@@ -6623,7 +6712,8 @@ Lower Ta'oih		iso639-3	tto
 Tombelala		iso639-3	ttp			
 Tawallammat Tamajaq	Tamajaq	iso639-3, ethnologue	ttq			
 Tera		iso639-3	ttr			
-Northeastern Thai	อีสาน (Isan)	iso639-3, ethnologue	tts			
+Northeastern Thai	อีสาน	iso639-3, ethnologue	tts			
+Northeastern Thai	Isan	iso639-3, ethnologue	tts		Latn	
 Muslim Tat		cldr	ttt			
 Torau		iso639-3	ttu			
 Titan		iso639-3	ttv			
@@ -6720,7 +6810,8 @@ Tai Daeng		iso639-3	tyr
 Tày Sa Pa		iso639-3	tys			
 Tày Tac		iso639-3	tyt			
 Kua		iso639-3	tyu			
-Tuvinian	Тыва дыл (tyva dyl)	cldr, ethnologue, github	tyv			
+Tuvinian	Тыва дыл	cldr, ethnologue, github	tyv			
+Tuvinian	Tyva dyl	cldr, ethnologue, github	tyv		Latn	
 Teke-Tyee		iso639-3	tyx			
 Tiyaa		iso639-3	tyy			
 Tày		iso639-3	tyz			
@@ -7197,7 +7288,8 @@ Aghwan		iso639-3	xag
 Kaimbé		iso639-3	xai			
 Ararandewára		iso639-3	xaj			
 Máku		iso639-3	xak			
-Kalmyk	Хальмг келн (Xaľmg keln)	cldr, ethnologue, github	xal			
+Kalmyk	Хальмг келн	cldr, ethnologue, github	xal			
+Kalmyk	Xaľmg keln	cldr, ethnologue, github	xal		Latn	
 /Xam		iso639-3	xam			
 Xamtanga		iso639-3	xan			
 Khao		iso639-3	xao			
@@ -7548,7 +7640,8 @@ Yucuna		iso639-3, ethnologue	ycn
 Chepya		iso639-3	ycp			
 Yilan Creole		iso639-3	ycr			
 Yanda		iso639-3	yda			
-Eastern Yiddish	יידיש (Yiddish)	iso639-3, ethnologue	ydd			
+Eastern Yiddish	יידיש	iso639-3, ethnologue	ydd			
+Eastern Yiddish	Yiddish	iso639-3, ethnologue	ydd		Latn	
 Yangum Dey		iso639-3	yde			
 Yidgha		iso639-3	ydg			
 Yoidik		iso639-3	ydk			
@@ -7819,7 +7912,8 @@ Krevinian		iso639-3	zkv
 Khazar		iso639-3	zkz			
 Zula		iso639-3	zla			
 Liujiang Zhuang		iso639-3	zlj			
-Malay	Bahasa Melayu, ملايو (Melayu)	iso639-3, ethnologue	zlm			
+Malay	Bahasa Melayu, Melayu	iso639-3, ethnologue	zlm			
+Malay	ملايو	iso639-3, ethnologue	zlm		Arab	
 Lianshan Zhuang		iso639-3	zln			
 Liuqian Zhuang		iso639-3	zlq			
 Zul		iso639-3	zlu			
@@ -7920,7 +8014,8 @@ Zumaya		iso639-3	zuy
 Zay		iso639-3	zwa			
 No linguistic content		cldr	zxx			
 Yongbei Zhuang		iso639-3	zyb			
-Yang Zhuang	壮语徳靖 (Deijing Zhuang)	iso639-3, ethnologue	zyg			
+Yang Zhuang	壮语徳靖	iso639-3, ethnologue	zyg			
+Yang Zhuang	Deijing Zhuang	iso639-3, ethnologue	zyg		Latn	
 Youjiang Zhuang		iso639-3	zyj			
 Yongnan Zhuang		iso639-3	zyn			
 Zyphe Chin		iso639-3	zyp			

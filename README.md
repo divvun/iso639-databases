@@ -12,7 +12,7 @@ While the data has initially been generated from standard sources, contributions
 
 Each row is a BCP 47 language tag split into its parts. `tag3` and `tag1` columns represent the ISO 639-3 (or -5) and -1 tags respectively, `script` is an ISO 15924 script code, and `region` is an ISO 3166-1 alpha-2 or UN M.49 region code. To build the tag, use `tag1` if present, otherwise `tag3`, then append `script` and `region` if present, for example `se`, `se-FI` or `crk-Cans`.
 
-A blank `script` or `region` means the row applies regardless of script or region. Look up the most specific tag first, then fall back by dropping the `region`, then the `script`.
+A blank `script` means the row is in the language's default script, as given by `iso639-default-script.tsv`, and a blank `region` means the row applies regardless of region. Look up the most specific tag first, then fall back by dropping the `region`, then the `script`. For example, `sr` gives `Српски` and `sr-Latn` gives `Srpski`.
 
 More tag columns may be added to the end in future, so read columns by their header name rather than by position.
 

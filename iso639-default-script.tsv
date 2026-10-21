@@ -3,14 +3,19 @@ aar	aa	Latn		cldr
 abk	ab	Cyrl		cldr
 abq		Cyrl		cldr
 abr		Latn		cldr
+abv		Arab		giellalt
 ace		Latn		cldr
 ach		Latn		cldr
+acm		Arab		giellalt
 ada		Latn		cldr
 ady		Cyrl		cldr
 aeb		Arab		cldr
+afb		Arab		giellalt
 afr	af	Latn		cldr
 agq		Latn		cldr
+agx		Cyrl		giellalt
 aii		Syrc		cldr
+ain		Kana		giellalt
 aka	ak	Latn		cldr
 akz		Latn		cldr
 ale		Latn		cldr
@@ -18,10 +23,14 @@ aln		Latn		cldr
 alt		Cyrl		cldr
 amh	am	Ethi		cldr
 amo		Latn		cldr
+ani		Cyrl		giellalt
 anp		Deva		cldr
 aoz		Latn		cldr
+apc		Arab		giellalt
+aph		Deva		giellalt
 apu		Latn		giellalt
 ara	ar	Arab		cldr
+arb		Arab		giellalt
 arg	an	Latn		cldr
 arn		Latn		cldr
 aro		Latn		cldr
@@ -34,10 +43,14 @@ asa		Latn		cldr
 asm	as	Beng		cldr
 ast		Latn		cldr
 atj		Latn		cldr
+atv		Cyrl		giellalt
 ava	av	Cyrl		cldr
 awa		Deva		cldr
+ayl		Arab		giellalt
 aym	ay	Latn		cldr
+azb		Arab		giellalt
 aze	az	Latn		cldr
+azj		Cyrl		giellalt
 bak	ba	Cyrl		cldr
 bal		Arab		cldr
 bam	bm	Latn		cldr
@@ -48,6 +61,8 @@ bas		Latn		cldr
 bax		Bamu		cldr
 bbc		Latn		cldr
 bbj		Latn		cldr
+bca		Hans		giellalt
+bcc		Arab		giellalt
 bci		Latn		cldr
 bej		Arab		cldr
 bel	be	Cyrl		cldr
@@ -57,12 +72,17 @@ bew		Latn		cldr
 bez		Latn		cldr
 bfd		Latn		cldr
 bfq		Taml		cldr
+bfs		Hans		giellalt
 bft		Arab		cldr
 bfy		Deva		cldr
 bgc		Deva		cldr
+bgd		Deva		giellalt
 bgn		Arab		cldr
+bgp		Arab		giellalt
+bgq		Deva		giellalt
 bgx		Grek		cldr
 bhb		Deva		cldr
+bhd		Deva		giellalt
 bhi		Deva		cldr
 bho		Deva		cldr
 bik		Latn		cldr
@@ -75,6 +95,7 @@ bku		Latn		cldr
 bla		Cans		giellalt
 blt		Tavt		cldr
 bmq		Latn		cldr
+bns		Deva		giellalt
 bod	bo	Tibt		cldr
 bos	bs	Latn		cldr
 bpy		Beng		cldr
@@ -84,6 +105,7 @@ bra		Deva		cldr
 bre	br	Latn		cldr
 brh		Arab		cldr
 brx		Deva		cldr
+bsk		Arab		giellalt
 bss		Latn		cldr
 bto		Latn		cldr
 btv		Deva		cldr
@@ -104,6 +126,7 @@ cat	ca	Latn		cldr
 cay		Latn		cldr
 cch		Latn		cldr
 ccp		Cakm		cldr
+cdo		Hans		giellalt
 ceb		Latn		cldr
 ces	cs	Latn		cldr
 cgg		Latn		cldr
@@ -121,8 +144,10 @@ ciw		Latn		giellalt
 cja		Arab		cldr
 cjm		Cham		cldr
 cjs		Cyrl		cldr
+cjy		Hans		giellalt
 ckb		Arab		cldr
 ckt		Cyrl		cldr
+cmn		Hans		giellalt
 cor	kw	Latn		cldr
 cos	co	Latn		cldr
 cps		Latn		cldr
@@ -135,6 +160,7 @@ crm		Cans		cldr
 crs		Latn		cldr
 csw		Cans		cldr
 ctd		Latn		cldr
+ctg		Beng		giellalt
 cym	cy	Latn		cldr
 dak		Latn		cldr
 dan	da	Latn		cldr
@@ -264,6 +290,7 @@ ibb		Latn		cldr
 ibo	ig	Latn		cldr
 ife		Latn		cldr
 iii	ii	Yiii		cldr
+ike		Cans		giellalt
 ikt		Latn		cldr
 iku	iu	Latn		cldr
 ilo		Latn		cldr
@@ -275,6 +302,7 @@ ita	it	Latn		cldr
 izh		Latn		cldr
 jam		Latn		cldr
 jav	jv	Latn		cldr
+jct		Cyrl		giellalt
 jgo		Latn		cldr
 jmc		Latn		cldr
 jml		Deva		cldr
@@ -315,6 +343,7 @@ khq		Latn		cldr
 kht		Mymr		cldr
 khw		Arab		cldr
 kik	ki	Latn		cldr
+kim		Cyrl		giellalt
 kin	rw	Latn		cldr
 kio		Latn		giellalt
 kir	ky	Cyrl		cldr
@@ -324,6 +353,7 @@ kjh		Cyrl		cldr
 kkj		Latn		cldr
 kln		Latn		cldr
 kmb		Latn		cldr
+knn		Deva		giellalt
 koi		Cyrl		cldr
 kok		Deva		cldr
 kom	kv	Cyrl		cldr
@@ -346,6 +376,7 @@ kum		Cyrl		cldr
 kut		Latn		cldr
 kvr		Latn		cldr
 kvx		Arab		cldr
+kxd		Latn		giellalt
 kxm		Thai		cldr
 kxp		Arab		cldr
 kyu		Kali		cldr
@@ -362,6 +393,7 @@ lbw		Latn		cldr
 lcp		Thai		cldr
 lep		Lepc		cldr
 lez		Cyrl		cldr
+lhm		Deva		giellalt
 lij		Latn		cldr
 lim	li	Latn		cldr
 lin	ln	Latn		cldr
@@ -374,6 +406,7 @@ lkt		Latn		cldr
 lmn		Telu		cldr
 lmo		Latn		cldr
 lol		Latn		cldr
+loy		Deva		giellalt
 loz		Latn		cldr
 lrc		Arab		cldr
 ltg		Latn		cldr
@@ -405,6 +438,7 @@ mdr		Latn		cldr
 mdt		Latn		cldr
 men		Latn		cldr
 mer		Latn		cldr
+mey		Arab		giellalt
 mfa		Arab		cldr
 mfe		Latn		cldr
 mgh		Latn		cldr
@@ -425,6 +459,7 @@ moe		Latn		cldr
 moh		Latn		cldr
 mon	mn	Cyrl		cldr
 mos		Latn		cldr
+mra		Thai		giellalt
 mri	mi	Latn		cldr
 mrj		Cyrl		cldr
 mro		Latn		cldr
@@ -474,6 +509,7 @@ noe		Deva		cldr
 nog		Cyrl		cldr
 non		Runr		giellalt
 nor	no	Latn		giellalt
+npi		Deva		giellalt
 nqo		Nkoo		cldr
 nsk		Cans		cldr
 nso		Latn		cldr
@@ -489,19 +525,24 @@ oji	oj	Latn		giellalt
 olo		Latn		giellalt
 ori	or	Orya		cldr
 orm	om	Latn		cldr
+ory		Orya		giellalt
 osa		Osge		cldr
 oss	os	Cyrl		cldr
 pag		Latn		cldr
 pam		Latn		cldr
 pap		Latn		cldr
 pau		Latn		cldr
+pbt		Arab		giellalt
+pbu		Arab		giellalt
 pcd		Latn		cldr
 pcm		Latn		cldr
 pdc		Latn		cldr
 pdt		Latn		cldr
+pes		Arab		giellalt
 pfl		Latn		cldr
 pko		Latn		cldr
 pms		Latn		cldr
+pnb		Arab		giellalt
 pol	pl	Latn		cldr
 pon		Latn		cldr
 por	pt	Latn		cldr
@@ -542,6 +583,7 @@ run	rn	Latn		cldr
 rup		Latn		cldr
 rus	ru	Cyrl		cldr
 rwk		Latn		cldr
+rwr		Deva		giellalt
 ryu		Kana		cldr
 sad		Latn		cldr
 saf		Latn		cldr
@@ -554,6 +596,7 @@ sat		Olck		cldr
 saz		Saur		cldr
 sbp		Latn		cldr
 sck		Deva		cldr
+scl		Arab		giellalt
 scn		Latn		cldr
 sco		Latn		cldr
 scs		Latn		cldr
@@ -568,6 +611,7 @@ ses		Latn		cldr
 sgs		Latn		cldr
 shi		Tfng		cldr
 shn		Mymr		cldr
+shu		Arab		giellalt
 sid		Latn		cldr
 sin	si	Sinh		cldr
 sjd		Cyrl		giellalt
@@ -595,6 +639,7 @@ sqi	sq	Latn		cldr
 srb		Latn		cldr
 srd	sc	Latn		cldr
 srn		Latn		cldr
+srp	sr	Cyrl		giellalt
 srr		Latn		cldr
 srs		Latn		giellalt
 srx		Deva		cldr
@@ -614,6 +659,7 @@ sxn		Latn		cldr
 syi		Latn		cldr
 syl		Beng		cldr
 syr		Syrc		giellalt
+syw		Deva		giellalt
 szl		Latn		cldr
 tab		Cyrl		cldr
 tah	ty	Latn		cldr
@@ -634,6 +680,7 @@ tet		Latn		cldr
 tgk	tg	Cyrl		cldr
 tgl	tl	Latn		giellalt
 tha	th	Thai		cldr
+the		Deva		giellalt
 thl		Deva		cldr
 thq		Deva		cldr
 thr		Deva		cldr
@@ -714,6 +761,7 @@ yao		Latn		cldr
 yap		Latn		cldr
 yav		Latn		cldr
 ybb		Latn		cldr
+ydd		Hebr		giellalt
 yid	yi	Hebr		cldr
 yor	yo	Latn		cldr
 yrk		Cyrl		cldr
@@ -725,7 +773,9 @@ zdj		Arab		cldr
 zea		Latn		cldr
 zgh		Tfng		cldr
 zha	za	Latn		cldr
+zlm		Latn		giellalt
 zmi		Latn		cldr
 zul	zu	Latn		cldr
 zun		Latn		cldr
+zyg		Hans		giellalt
 zza		Latn		cldr
