@@ -4,7 +4,7 @@ This repository is borne out of a need for a singular database of languages mapp
 
 This database has been extended to include tables for resolving default ISO 15924 scripts for a given ISO 639 tag, and a table for resolving locales to LCIDs for Microsoft Windows and Microsoft Office-related localisation efforts.
 
-## ISO 639 Autonyms - iso639-autonyms.tsv
+## BCP 47 Autonyms - bcp47-autonyms.tsv
 
 While the data has initially been generated from standard sources, contributions are welcomed for any overly-anglicised names (those not using the native character set of the language) or those languages with name variants that have not been included.
 
