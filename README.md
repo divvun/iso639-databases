@@ -24,7 +24,7 @@ Here are the currently utilised sources by this table:
 - `ethnologue` - [Ethnologue](https://www.ethnologue.com/), only autonyms where specified.
 - `iso639-3` - [ISO 639-3](http://www.sil.org/iso639-3/), reference language names only.
 - `iso639-5` - [ISO 639-5](https://www.loc.gov/standards/iso639-5/id.php), reference language family names only.
-- `github` - [This repository](https://github.com/bbqsrc/iso639-databases)
+- `github` - [This repository](https://github.com/divvun/iso639-databases)
 
 ## ISO 639 Default Script (ISO 15924) - iso639-default-script.tsv
 
@@ -40,7 +40,7 @@ Here are the currently utilised sources by this table:
 
 - `cldr` - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
 - `giellalt` - [GiellaLT](https://github.com/giellalt)
-- `github` - [This repository](https://github.com/bbqsrc/iso639-databases)
+- `github` - [This repository](https://github.com/divvun/iso639-databases)
 
 ## ISO 639 Microsoft Office LCIDs - iso639-lcids.tsv
 
